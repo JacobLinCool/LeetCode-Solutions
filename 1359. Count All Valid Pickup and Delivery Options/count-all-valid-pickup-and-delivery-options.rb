@@ -1,5 +1,5 @@
 # 1359. Count All Valid Pickup and Delivery Options (3/7/2022)
-# Runtime: 48 ms (93.55%) Memory: 210.95 MB (77.42%) 
+# Runtime: 48 ms (94.87%) Memory: 210.95 MB (74.36%) 
 
 # @param {Integer} n
 # @return {Integer}

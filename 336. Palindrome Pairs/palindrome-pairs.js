@@ -1,5 +1,5 @@
 // 336. Palindrome Pairs (6/13/2021)
-// Runtime: 636 ms (95.00%) Memory: 49.39 MB (95.00%) 
+// Runtime: 636 ms (94.87%) Memory: 49.39 MB (94.87%) 
 
 /**
  * @param {string[]} words

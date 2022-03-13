@@ -1,5 +1,5 @@
 // 315. Count of Smaller Numbers After Self (6/27/2021)
-// Runtime: 432 ms (67.45%) Memory: 209.37 MB (34.82%) 
+// Runtime: 432 ms (67.57%) Memory: 209.37 MB (35.14%) 
 
 struct Item {
   Item(int num, int index) : num(num), index(index) {

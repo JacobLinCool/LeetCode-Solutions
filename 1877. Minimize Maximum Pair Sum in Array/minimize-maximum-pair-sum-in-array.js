@@ -1,5 +1,5 @@
 // 1877. Minimize Maximum Pair Sum in Array (5/29/2021)
-// Runtime: 656 ms (1.96%) Memory: 56.99 MB (46.73%) 
+// Runtime: 656 ms (1.97%) Memory: 56.99 MB (47.21%) 
 
 /**
  * @param {number[]} nums

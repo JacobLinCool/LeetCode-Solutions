@@ -1,5 +1,5 @@
 // 1290. Convert Binary Number in a Linked List to Integer (12/8/2021)
-// Runtime: 80 ms (64.29%) Memory: 40.79 MB (71.43%) 
+// Runtime: 80 ms (63.41%) Memory: 40.79 MB (73.17%) 
 
 /**
  * Definition for singly-linked list.
