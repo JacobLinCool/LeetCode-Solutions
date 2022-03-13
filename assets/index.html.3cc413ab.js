@@ -1,0 +1,1 @@
+const e={key:"v-277392b0",path:"/120-triangle/",title:"120. Triangle",lang:"en-US",frontmatter:{title:"120. Triangle"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"120-triangle/index.md"};export{e as data};

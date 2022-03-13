@@ -1,0 +1,1 @@
+const e={key:"v-80041310",path:"/476-number-complement/",title:"476. Number Complement",lang:"en-US",frontmatter:{title:"476. Number Complement"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"476-number-complement/index.md"};export{e as data};

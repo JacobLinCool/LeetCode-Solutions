@@ -1,0 +1,1 @@
+const e={key:"v-3f4c9e14",path:"/28-implement-strstr()/",title:"28. Implement strStr()",lang:"en-US",frontmatter:{title:"28. Implement strStr()"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"28-implement-strstr()/index.md"};export{e as data};

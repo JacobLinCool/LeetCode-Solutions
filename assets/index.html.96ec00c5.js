@@ -1,0 +1,1 @@
+const e={key:"v-74d4dee5",path:"/35-search-insert-position/",title:"35. Search Insert Position",lang:"en-US",frontmatter:{title:"35. Search Insert Position"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"35-search-insert-position/index.md"};export{e as data};

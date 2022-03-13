@@ -1,0 +1,1 @@
+const e={key:"v-08295850",path:"/1895-largest-magic-square/",title:"1895. Largest Magic Square",lang:"en-US",frontmatter:{title:"1895. Largest Magic Square"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"GO",slug:"go",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"1895-largest-magic-square/index.md"};export{e as data};

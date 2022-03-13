@@ -1,0 +1,1 @@
+const e={key:"v-135f030d",path:"/27-remove-element/",title:"27. Remove Element",lang:"en-US",frontmatter:{title:"27. Remove Element"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"27-remove-element/index.md"};export{e as data};

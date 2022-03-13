@@ -1,0 +1,1 @@
+const e={key:"v-3c0a354e",path:"/58-length-of-last-word/",title:"58. Length of Last Word",lang:"en-US",frontmatter:{title:"58. Length of Last Word"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"58-length-of-last-word/index.md"};export{e as data};

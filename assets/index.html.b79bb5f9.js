@@ -1,0 +1,1 @@
+const t={key:"v-5d1a5ebf",path:"/576-out-of-boundary-paths/",title:"576. Out of Boundary Paths",lang:"en-US",frontmatter:{title:"576. Out of Boundary Paths"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"576-out-of-boundary-paths/index.md"};export{t as data};

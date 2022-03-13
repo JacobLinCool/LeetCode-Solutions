@@ -1,0 +1,1 @@
+const e={key:"v-4c7cf2a7",path:"/706-design-hashmap/",title:"706. Design HashMap",lang:"en-US",frontmatter:{title:"706. Design HashMap"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"706-design-hashmap/index.md"};export{e as data};
