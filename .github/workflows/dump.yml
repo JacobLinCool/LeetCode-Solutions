@@ -1,0 +1,51 @@
+name: Dump
+
+on:
+    schedule:
+        - cron: "0 */4 * * *"
+    workflow_dispatch:
+
+jobs:
+    dump:
+        name: Dump
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Repository
+              uses: actions/checkout@v2
+
+            - name: Install leetcode-dump
+              run: npm i -g leetcode-dump && lcd -V
+
+            - name: Dump Solutions
+              run: lcd -cd 300 # cooldown: 300 ms
+              env:
+                  LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+
+            - name: Build Static Site
+              run: lcd build
+
+            - name: Copy Workflows && Git Files
+              run: |
+                  cp -R .github/ ./leetcode/.github/ && 
+                  cp .gitignore ./leetcode/.gitignore && 
+                  cp .gitattributes ./leetcode/.gitattributes
+
+            - name: Add CNAME
+              run: echo "" > ./site/CNAME
+
+            - name: Deploy Dumped Solutions
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN  }}
+                  publish_dir: "./leetcode"
+                  publish_branch: "main"
+                  full_commit_message: "Update Solutions [ci skip]"
+                  exclude_assets: ""
+
+            - name: Deploy Static Site
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN  }}
+                  publish_dir: "./site"
+                  publish_branch: "gh-pages"
+                  full_commit_message: "Update Solutions [ci skip]"
