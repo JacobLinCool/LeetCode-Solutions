@@ -31,7 +31,7 @@ jobs:
                   cp .gitattributes ./leetcode/.gitattributes
 
             - name: Add CNAME
-              run: echo "" > ./site/CNAME
+              run: echo "leetcode.jacoblin.cool" > ./site/CNAME
 
             - name: Deploy Dumped Solutions
               uses: peaceiris/actions-gh-pages@v3
