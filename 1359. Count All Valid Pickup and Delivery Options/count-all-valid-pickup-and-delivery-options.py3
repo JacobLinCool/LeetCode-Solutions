@@ -1,12 +1,8 @@
 # 1359. Count All Valid Pickup and Delivery Options (3/6/2022)
-# Runtime: 24 ms (57.01%) Memory: 13.43 MB (52.34%) 
+# Runtime: 42 ms (61.98%) Memory: 13.78 MB (89.33%) 
 
-class Solution(object):
-    def countOrders(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
+class Solution:
+    def countOrders(self, n: int) -> int:
         ans = 1
         mod = 1000000007
         
