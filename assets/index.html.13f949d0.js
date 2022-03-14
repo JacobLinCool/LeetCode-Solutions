@@ -1,0 +1,1 @@
+const e={key:"v-b0cb629a",path:"/44-wildcard-matching/",title:"44. Wildcard Matching",lang:"en-US",frontmatter:{title:"44. Wildcard Matching"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"GO",slug:"go",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"44-wildcard-matching/index.md"};export{e as data};
