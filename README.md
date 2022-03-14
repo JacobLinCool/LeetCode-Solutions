@@ -36,6 +36,7 @@
 | [66. Plus One](./66.%20Plus%20One) [🔗](https://leetcode.com/problems/plus-one/) | Easy | `Array`, `Math` | [c](./66.%20Plus%20One/plus-one.c) |
 | [69. Sqrt(x)](./69.%20Sqrt(x)) [🔗](https://leetcode.com/problems/sqrtx/) | Easy | `Math`, `Binary Search` | [c](./69.%20Sqrt(x)/sqrtx.c) |
 | [70. Climbing Stairs](./70.%20Climbing%20Stairs) [🔗](https://leetcode.com/problems/climbing-stairs/) | Easy | `Math`, `Dynamic Programming`, `Memoization` | [c](./70.%20Climbing%20Stairs/climbing-stairs.c) \| [javascript](./70.%20Climbing%20Stairs/climbing-stairs.js) |
+| [71. Simplify Path](./71.%20Simplify%20Path) [🔗](https://leetcode.com/problems/simplify-path/) | Medium | `String`, `Stack` | [c](./71.%20Simplify%20Path/simplify-path.c) |
 | [74. Search a 2D Matrix](./74.%20Search%20a%202D%20Matrix) [🔗](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | `Array`, `Binary Search`, `Matrix` | [javascript](./74.%20Search%20a%202D%20Matrix/search-a-2d-matrix.js) |
 | [75. Sort Colors](./75.%20Sort%20Colors) [🔗](https://leetcode.com/problems/sort-colors/) | Medium | `Array`, `Two Pointers`, `Sorting` | [javascript](./75.%20Sort%20Colors/sort-colors.js) |
 | [77. Combinations](./77.%20Combinations) [🔗](https://leetcode.com/problems/combinations/) | Medium | `Array`, `Backtracking` | [javascript](./77.%20Combinations/combinations.js) |
