@@ -1,5 +1,5 @@
 // 1880. Check if Word Equals Summation of Two Words (5/30/2021)
-// Runtime: 76 ms (62.96%) Memory: 38.72 MB (79.26%) 
+// Runtime: 76 ms (62.77%) Memory: 38.72 MB (79.56%) 
 
 /**
  * @param {string} firstWord

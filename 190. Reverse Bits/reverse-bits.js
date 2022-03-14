@@ -1,5 +1,5 @@
 // 190. Reverse Bits (10/12/2021)
-// Runtime: 128 ms (11.33%) Memory: 40.50 MB (82.62%) 
+// Runtime: 128 ms (10.65%) Memory: 40.50 MB (83.53%) 
 
 /**
  * @param {number} n - a positive integer

@@ -1,5 +1,5 @@
 // 1. Two Sum (5/27/2021)
-// Runtime: 72 ms (86.07%) Memory: 39.42 MB (88.29%) 
+// Runtime: 72 ms (85.93%) Memory: 39.42 MB (88.63%) 
 
 /**
  * @param {number[]} nums

@@ -1,5 +1,5 @@
 // 1897. Redistribute Characters to Make All Strings Equal (6/13/2021)
-// Runtime: 152 ms (13.25%) Memory: 41.68 MB (85.54%) 
+// Runtime: 152 ms (13.25%) Memory: 41.68 MB (86.75%) 
 
 /**
  * @param {string[]} words

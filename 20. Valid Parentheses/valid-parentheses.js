@@ -1,5 +1,5 @@
 // 20. Valid Parentheses (10/6/2021)
-// Runtime: 104 ms (27.17%) Memory: 38.37 MB (93.22%) 
+// Runtime: 104 ms (26.36%) Memory: 38.37 MB (93.44%) 
 
 /**
  * @param {string} s

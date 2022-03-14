@@ -1,5 +1,5 @@
 // 473. Matchsticks to Square (6/16/2021)
-// Runtime: 84 ms (86.84%) Memory: 39.19 MB (94.74%) 
+// Runtime: 84 ms (86.49%) Memory: 39.19 MB (94.59%) 
 
 /**
  * @param {number[]} matchsticks

@@ -1,5 +1,5 @@
 // 1009. Complement of Base 10 Integer (12/27/2021)
-// Runtime: 0 ms (91.09%) Memory: 5.70 MB (18.81%) 
+// Runtime: 0 ms (91.43%) Memory: 5.70 MB (18.10%) 
 
 int bitwiseComplement(int n) {
     // 如果 n 為 0，直接回傳 1

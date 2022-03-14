@@ -1,5 +1,5 @@
 // 89. Gray Code (7/1/2021)
-// Runtime: 112 ms (76.92%) Memory: 48.51 MB (70.19%) 
+// Runtime: 112 ms (78.00%) Memory: 48.51 MB (75.00%) 
 
 /**
  * @param {number} n
