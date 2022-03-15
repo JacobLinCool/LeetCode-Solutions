@@ -1,5 +1,5 @@
 // 104. Maximum Depth of Binary Tree (10/9/2021)
-// Runtime: 84 ms (65.05%) Memory: 41.80 MB (84.89%) 
+// Runtime: 84 ms (64.76%) Memory: 41.80 MB (85.51%) 
 
 /**
  * Definition for a binary tree node.

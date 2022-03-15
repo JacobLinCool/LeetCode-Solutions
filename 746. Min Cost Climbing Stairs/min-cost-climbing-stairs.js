@@ -1,5 +1,5 @@
 // 746. Min Cost Climbing Stairs (6/7/2021)
-// Runtime: 84 ms (63.21%) Memory: 41.04 MB (72.91%) 
+// Runtime: 84 ms (63.12%) Memory: 41.04 MB (74.53%) 
 
 /**
  * @param {number[]} cost

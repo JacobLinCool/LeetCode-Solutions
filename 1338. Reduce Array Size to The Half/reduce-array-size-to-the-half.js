@@ -1,5 +1,5 @@
 // 1338. Reduce Array Size to The Half (7/7/2021)
-// Runtime: 224 ms (46.09%) Memory: 61.27 MB (57.81%) 
+// Runtime: 224 ms (46.83%) Memory: 61.27 MB (57.15%) 
 
 /**
  * @param {number[]} arr

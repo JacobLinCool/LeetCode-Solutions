@@ -1,5 +1,5 @@
 // 88. Merge Sorted Array (9/29/2021)
-// Runtime: 64 ms (83.18%) Memory: 39.17 MB (76.60%) 
+// Runtime: 64 ms (83.00%) Memory: 39.17 MB (77.91%) 
 
 /**
  * @param {number[]} nums1

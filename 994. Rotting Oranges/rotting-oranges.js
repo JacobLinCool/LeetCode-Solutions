@@ -1,5 +1,5 @@
 // 994. Rotting Oranges (10/6/2021)
-// Runtime: 92 ms (71.64%) Memory: 41.75 MB (78.66%) 
+// Runtime: 92 ms (71.70%) Memory: 41.75 MB (79.63%) 
 
 /**
  * @param {number[][]} grid

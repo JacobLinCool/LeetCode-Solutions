@@ -1,5 +1,5 @@
 // 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (12/26/2021)
-// Runtime: 56 ms (66.67%) Memory: 12.24 MB (0.00%) 
+// Runtime: 56 ms (70.00%) Memory: 12.24 MB (0.00%) 
 
 int compare (const int *a, const int *b) {
     return (*a - *b);

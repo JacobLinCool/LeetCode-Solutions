@@ -1,5 +1,5 @@
 // 1895. Largest Magic Square (6/12/2021)
-// Runtime: 12 ms (83.33%) Memory: 6.56 MB (33.33%) 
+// Runtime: 12 ms (85.71%) Memory: 6.56 MB (42.86%) 
 
 // Go
 func Min (a, b int) int {

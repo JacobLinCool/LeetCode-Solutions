@@ -1,5 +1,5 @@
 // 1359. Count All Valid Pickup and Delivery Options (3/6/2022)
-// Runtime: 1 ms (56.10%) Memory: 2.06 MB (57.32%) 
+// Runtime: 1 ms (55.95%) Memory: 2.06 MB (57.14%) 
 
 impl Solution {
     pub fn count_orders(n: i32) -> i32 {
