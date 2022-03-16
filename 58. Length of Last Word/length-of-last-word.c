@@ -1,5 +1,5 @@
 // 58. Length of Last Word (3/4/2022)
-// Runtime: 0 ms (92.36%) Memory: 5.61 MB (50.58%) 
+// Runtime: 0 ms (92.49%) Memory: 5.61 MB (50.43%) 
 
 int lengthOfLastWord (char* s) {
     int curr = 0, last = 0, len = strlen(s);

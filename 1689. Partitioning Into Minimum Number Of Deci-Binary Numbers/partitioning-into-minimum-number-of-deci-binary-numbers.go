@@ -1,5 +1,5 @@
 // 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers (5/27/2021)
-// Runtime: 0 ms (94.44%) Memory: 6.49 MB (80.00%) 
+// Runtime: 0 ms (94.51%) Memory: 6.49 MB (80.22%) 
 
 func minPartitions(n string) int {
     result := '0'

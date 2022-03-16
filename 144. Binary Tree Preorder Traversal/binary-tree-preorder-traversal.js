@@ -1,5 +1,5 @@
 // 144. Binary Tree Preorder Traversal (10/8/2021)
-// Runtime: 76 ms (58.45%) Memory: 39.00 MB (75.35%) 
+// Runtime: 76 ms (57.52%) Memory: 39.00 MB (77.04%) 
 
 /**
  * Definition for a binary tree node.
