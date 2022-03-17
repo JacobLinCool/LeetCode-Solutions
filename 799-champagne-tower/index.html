@@ -23,7 +23,7 @@
 			}
     </script>
     <title>799. Champagne Tower | LeetCode Solutions</title><meta name="description" content="">
-    <link rel="modulepreload" href="/assets/app.1e0a00ef.js"><link rel="modulepreload" href="/assets/index.html.3d9ca809.js"><link rel="modulepreload" href="/assets/index.html.f4e43bac.js"><link rel="modulepreload" href="/assets/plugin-vue_export-helper.21dcd24c.js">
+    <link rel="modulepreload" href="/assets/app.733bafe2.js"><link rel="modulepreload" href="/assets/index.html.3d9ca809.js"><link rel="modulepreload" href="/assets/index.html.b9a6f9f8.js"><link rel="modulepreload" href="/assets/plugin-vue_export-helper.21dcd24c.js">
     <link rel="stylesheet" href="/assets/style.28f5ce32.css">
   </head>
   <body>
@@ -36,7 +36,7 @@ Explanation: We poured 2 cups of champange to the top glass of the tower (which 
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><p><strong>Example 3:</strong></p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>Input: poured = 100000009, query_row = 33, query_glass = 17
 Output: 1.00000
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p><strong>Constraints:</strong></p><ul><li><code>0 &lt;= poured &lt;= 10^9</code></li><li><code>0 &lt;= query_glass &lt;= query_row &lt; 100</code></li></ul><h2 id="code" tabindex="-1"><a class="header-anchor" href="#code" aria-hidden="true">#</a> Code</h2><h3 id="c" tabindex="-1"><a class="header-anchor" href="#c" aria-hidden="true">#</a> C</h3><div class="language-c ext-c line-numbers-mode"><pre class="language-c"><code><span class="token comment">// 799. Champagne Tower (3/4/2022)</span>
-<span class="token comment">// Runtime: 3 ms (84.85%) Memory: 12.09 MB (5.05%) </span>
+<span class="token comment">// Runtime: 3 ms (84.92%) Memory: 12.09 MB (5.02%) </span>
 
 <span class="token keyword">static</span> <span class="token keyword">inline</span> <span class="token keyword">double</span> <span class="token function">pour</span><span class="token punctuation">(</span><span class="token keyword">double</span> a<span class="token punctuation">)</span> <span class="token punctuation">{</span>
     <span class="token keyword">return</span> a <span class="token operator">&gt;</span> <span class="token number">1</span> <span class="token operator">?</span> <span class="token punctuation">(</span>a <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">)</span> <span class="token operator">/</span> <span class="token number">2</span> <span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">;</span>
@@ -61,6 +61,6 @@ Output: 1.00000
     <span class="token keyword">return</span> dp<span class="token punctuation">[</span>rows <span class="token operator">*</span> q_row <span class="token operator">+</span> q_glass<span class="token punctuation">]</span> <span class="token operator">&lt;</span> <span class="token number">1</span> <span class="token operator">?</span> dp<span class="token punctuation">[</span>rows <span class="token operator">*</span> q_row <span class="token operator">+</span> q_glass<span class="token punctuation">]</span> <span class="token operator">:</span> <span class="token number">1</span><span class="token punctuation">;</span>
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br></div></div><!--]--></div><footer class="page-meta"><!----><!----><!----></footer><!----><!--[--><!--]--></main><!--]--></div><!----><!--]--></div>
-    <script type="module" src="/assets/app.1e0a00ef.js" defer></script>
+    <script type="module" src="/assets/app.733bafe2.js" defer></script>
   </body>
 </html>
