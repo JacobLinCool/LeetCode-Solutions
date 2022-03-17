@@ -1,5 +1,5 @@
 // 1690. Stone Game VII (6/11/2021)
-// Runtime: 592 ms (24.24%) Memory: 64.59 MB (78.79%) 
+// Runtime: 592 ms (22.58%) Memory: 64.59 MB (77.42%) 
 
 /**
  * @param {number[]} stones

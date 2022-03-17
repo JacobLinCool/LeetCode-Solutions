@@ -1,5 +1,5 @@
 // 1359. Count All Valid Pickup and Delivery Options (3/6/2022)
-// Runtime: 60 ms (91.67%) Memory: 44.80 MB (39.58%) 
+// Runtime: 60 ms (91.84%) Memory: 44.80 MB (38.78%) 
 
 function countOrders(n: number): number {
     let ans = 1;

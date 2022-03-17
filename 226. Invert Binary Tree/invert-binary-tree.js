@@ -1,5 +1,5 @@
 // 226. Invert Binary Tree (10/10/2021)
-// Runtime: 92 ms (35.13%) Memory: 39.72 MB (84.58%) 
+// Runtime: 92 ms (34.57%) Memory: 39.72 MB (84.91%) 
 
 /**
  * Definition for a binary tree node.

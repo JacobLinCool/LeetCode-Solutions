@@ -1,5 +1,5 @@
 // 203. Remove Linked List Elements (10/4/2021)
-// Runtime: 126 ms (28.98%) Memory: 43.35 MB (87.77%) 
+// Runtime: 126 ms (28.62%) Memory: 43.35 MB (88.21%) 
 
 /**
  * Definition for singly-linked list.

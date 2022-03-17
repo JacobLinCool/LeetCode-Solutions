@@ -1,5 +1,5 @@
 // 69. Sqrt(x) (12/27/2021)
-// Runtime: 4 ms (67.06%) Memory: 5.47 MB (80.62%) 
+// Runtime: 4 ms (67.07%) Memory: 5.47 MB (80.24%) 
 
 int mySqrt(int64_t x) {
     // 左界為 l，右界為 r
