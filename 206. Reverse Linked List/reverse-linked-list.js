@@ -1,5 +1,5 @@
 // 206. Reverse Linked List (10/8/2021)
-// Runtime: 76 ms (69.89%) Memory: 41.11 MB (76.22%) 
+// Runtime: 76 ms (69.45%) Memory: 41.11 MB (77.82%) 
 
 /**
  * Definition for singly-linked list.

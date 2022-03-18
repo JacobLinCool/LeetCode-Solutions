@@ -1,5 +1,5 @@
 // 1696. Jump Game VI (6/9/2021)
-// Runtime: 144 ms (77.19%) Memory: 52.20 MB (89.47%) 
+// Runtime: 144 ms (76.79%) Memory: 52.20 MB (91.07%) 
 
 /**
  * @param {number[]} nums

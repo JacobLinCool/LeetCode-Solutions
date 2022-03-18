@@ -1,5 +1,5 @@
 // 98. Validate Binary Search Tree (10/12/2021)
-// Runtime: 115 ms (30.15%) Memory: 43.55 MB (79.92%) 
+// Runtime: 115 ms (29.43%) Memory: 43.55 MB (81.56%) 
 
 /**
  * Definition for a binary tree node.

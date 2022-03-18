@@ -1,5 +1,5 @@
 // 799. Champagne Tower (3/4/2022)
-// Runtime: 3 ms (84.92%) Memory: 12.09 MB (5.02%) 
+// Runtime: 3 ms (84.16%) Memory: 12.09 MB (3.96%) 
 
 static inline double pour(double a) {
     return a > 1 ? (a - 1) / 2 : 0;

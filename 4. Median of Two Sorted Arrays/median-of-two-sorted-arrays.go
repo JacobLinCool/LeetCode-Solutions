@@ -1,5 +1,5 @@
 // 4. Median of Two Sorted Arrays (5/29/2021)
-// Runtime: 16 ms (64.81%) Memory: 5.38 MB (57.15%) 
+// Runtime: 16 ms (64.51%) Memory: 5.38 MB (56.94%) 
 
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	m, n := len(nums1), len(nums2)
