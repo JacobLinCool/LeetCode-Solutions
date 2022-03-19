@@ -1,5 +1,5 @@
 // 784. Letter Case Permutation (10/9/2021)
-// Runtime: 92 ms (70.73%) Memory: 42.54 MB (89.57%) 
+// Runtime: 92 ms (70.53%) Memory: 42.54 MB (90.48%) 
 
 /**
  * @param {string} s

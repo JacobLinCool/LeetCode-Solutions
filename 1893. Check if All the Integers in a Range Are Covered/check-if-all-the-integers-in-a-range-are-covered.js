@@ -1,5 +1,5 @@
 // 1893. Check if All the Integers in a Range Are Covered (6/12/2021)
-// Runtime: 80 ms (52.81%) Memory: 38.79 MB (93.26%) 
+// Runtime: 80 ms (52.27%) Memory: 38.79 MB (93.18%) 
 
 /**
  * @param {number[][]} ranges

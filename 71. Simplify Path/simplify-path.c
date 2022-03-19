@@ -1,5 +1,5 @@
 // 71. Simplify Path (3/14/2022)
-// Runtime: 0 ms (95.00%) Memory: 6.97 MB (29.64%) 
+// Runtime: 0 ms (94.70%) Memory: 6.97 MB (29.33%) 
 
 #define StructStack(_name, _type) \
     typedef struct _name { \

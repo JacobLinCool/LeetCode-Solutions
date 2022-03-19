@@ -1,5 +1,5 @@
 // 752. Open the Lock (6/5/2021)
-// Runtime: 1112 ms (5.09%) Memory: 45.53 MB (93.03%) 
+// Runtime: 1112 ms (4.81%) Memory: 45.53 MB (93.05%) 
 
 /**
  * @param {string[]} deadends

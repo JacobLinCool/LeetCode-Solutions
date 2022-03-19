@@ -1,5 +1,5 @@
 // 1882. Process Tasks Using Servers (5/30/2021)
-// Runtime: 912 ms (21.51%) Memory: 307.84 MB (0.00%) 
+// Runtime: 912 ms (21.46%) Memory: 307.84 MB (0.00%) 
 
 struct node{
     int t;//0 server 1 task

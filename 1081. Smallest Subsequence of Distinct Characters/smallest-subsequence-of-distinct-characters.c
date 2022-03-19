@@ -1,5 +1,5 @@
 // 1081. Smallest Subsequence of Distinct Characters (3/18/2022)
-// Runtime: 0 ms (25.00%) Memory: 5.52 MB (25.00%) 
+// Runtime: 0 ms (50.00%) Memory: 5.52 MB (33.33%) 
 
 char* smallestSubsequence (char* s) {
     int last_pos[26] = { -1 };

@@ -1,5 +1,5 @@
 // 14. Longest Common Prefix (3/4/2022)
-// Runtime: 0 ms (94.74%) Memory: 5.98 MB (38.55%) 
+// Runtime: 0 ms (94.91%) Memory: 5.98 MB (38.58%) 
 
 char* longestCommonPrefix (char* strs[], int size) {
     char* common = calloc(200, sizeof(char));
