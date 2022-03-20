@@ -1,0 +1,1 @@
+const e={key:"v-429a9537",path:"/392-is-subsequence/",title:"392. Is Subsequence",lang:"en-US",frontmatter:{title:"392. Is Subsequence"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"392-is-subsequence/index.md"};export{e as data};

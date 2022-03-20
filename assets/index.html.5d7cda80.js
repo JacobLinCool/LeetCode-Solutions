@@ -1,0 +1,1 @@
+const e={key:"v-1d8e8e04",path:"/506-relative-ranks/",title:"506. Relative Ranks",lang:"en-US",frontmatter:{title:"506. Relative Ranks"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"506-relative-ranks/index.md"};export{e as data};

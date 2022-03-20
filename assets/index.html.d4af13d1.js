@@ -1,0 +1,1 @@
+const e={key:"v-68146864",path:"/994-rotting-oranges/",title:"994. Rotting Oranges",lang:"en-US",frontmatter:{title:"994. Rotting Oranges"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"994-rotting-oranges/index.md"};export{e as data};

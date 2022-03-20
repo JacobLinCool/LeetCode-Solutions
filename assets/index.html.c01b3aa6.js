@@ -1,0 +1,1 @@
+const t={key:"v-72c1ab0a",path:"/473-matchsticks-to-square/",title:"473. Matchsticks to Square",lang:"en-US",frontmatter:{title:"473. Matchsticks to Square"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"473-matchsticks-to-square/index.md"};export{t as data};
