@@ -1,5 +1,5 @@
 // 617. Merge Two Binary Trees (10/6/2021)
-// Runtime: 112 ms (75.38%) Memory: 46.87 MB (85.26%) 
+// Runtime: 112 ms (75.18%) Memory: 46.87 MB (86.03%) 
 
 /**
  * Definition for a binary tree node.

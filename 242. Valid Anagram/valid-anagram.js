@@ -1,5 +1,5 @@
 // 242. Valid Anagram (10/3/2021)
-// Runtime: 88 ms (78.35%) Memory: 39.59 MB (94.24%) 
+// Runtime: 88 ms (78.29%) Memory: 39.59 MB (94.17%) 
 
 /**
  * @param {string} s

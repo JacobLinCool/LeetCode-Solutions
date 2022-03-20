@@ -1,5 +1,5 @@
 // 1899. Merge Triplets to Form Target Triplet (6/13/2021)
-// Runtime: 220 ms (55.56%) Memory: 69.85 MB (59.26%) 
+// Runtime: 220 ms (51.85%) Memory: 69.85 MB (55.56%) 
 
 /**
  * @param {number[][]} triplets

@@ -1,5 +1,5 @@
 // 856. Score of Parentheses (3/17/2022)
-// Runtime: 72 ms (74.26%) Memory: 42.82 MB (55.45%) 
+// Runtime: 72 ms (74.29%) Memory: 42.82 MB (56.19%) 
 
 function scoreOfParentheses(s: string): number {
     let score = 0, depth = 0;
