@@ -1,1 +1,0 @@
-const e={key:"v-5d4da53c",path:"/16-3sum-closest/",title:"16. 3Sum Closest",lang:"en-US",frontmatter:{title:"16. 3Sum Closest"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"16-3sum-closest/index.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-591d32af",path:"/14-longest-common-prefix/",title:"14. Longest Common Prefix",lang:"en-US",frontmatter:{title:"14. Longest Common Prefix"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"14-longest-common-prefix/index.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-636d2beb",path:"/89-gray-code/",title:"89. Gray Code",lang:"en-US",frontmatter:{title:"89. Gray Code"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"89-gray-code/index.md"};export{e as data};

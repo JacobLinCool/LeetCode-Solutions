@@ -1,1 +1,0 @@
-const e={key:"v-17ed65ca",path:"/413-arithmetic-slices/",title:"413. Arithmetic Slices",lang:"en-US",frontmatter:{title:"413. Arithmetic Slices"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"413-arithmetic-slices/index.md"};export{e as data};
