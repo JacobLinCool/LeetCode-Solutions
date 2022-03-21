@@ -36,6 +36,7 @@
 | [59. Spiral Matrix II](./59.%20Spiral%20Matrix%20II) [🔗](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | `Array`, `Matrix`, `Simulation` | [javascript](./59.%20Spiral%20Matrix%20II/spiral-matrix-ii.js) |
 | [61. Rotate List](./61.%20Rotate%20List) [🔗](https://leetcode.com/problems/rotate-list/) | Medium | `Linked List`, `Two Pointers` | [c](./61.%20Rotate%20List/rotate-list.c) |
 | [66. Plus One](./66.%20Plus%20One) [🔗](https://leetcode.com/problems/plus-one/) | Easy | `Array`, `Math` | [c](./66.%20Plus%20One/plus-one.c) |
+| [67. Add Binary](./67.%20Add%20Binary) [🔗](https://leetcode.com/problems/add-binary/) | Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` | [typescript](./67.%20Add%20Binary/add-binary.ts) |
 | [69. Sqrt(x)](./69.%20Sqrt(x)) [🔗](https://leetcode.com/problems/sqrtx/) | Easy | `Math`, `Binary Search` | [c](./69.%20Sqrt(x)/sqrtx.c) |
 | [70. Climbing Stairs](./70.%20Climbing%20Stairs) [🔗](https://leetcode.com/problems/climbing-stairs/) | Easy | `Math`, `Dynamic Programming`, `Memoization` | [c](./70.%20Climbing%20Stairs/climbing-stairs.c) \| [javascript](./70.%20Climbing%20Stairs/climbing-stairs.js) |
 | [71. Simplify Path](./71.%20Simplify%20Path) [🔗](https://leetcode.com/problems/simplify-path/) | Medium | `String`, `Stack` | [c](./71.%20Simplify%20Path/simplify-path.c) |
