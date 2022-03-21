@@ -1,5 +1,5 @@
 // 1910. Remove All Occurrences of a Substring (6/26/2021)
-// Runtime: 80 ms (55.10%) Memory: 40.24 MB (88.77%) 
+// Runtime: 80 ms (51.92%) Memory: 40.24 MB (88.46%) 
 
 /**
  * @param {string} s

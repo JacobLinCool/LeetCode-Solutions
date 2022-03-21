@@ -1,5 +1,5 @@
 // 67. Add Binary (3/21/2022)
-// Runtime: 2 ms (45.93%) Memory: 5.61 MB (77.64%) 
+// Runtime: 2 ms (45.42%) Memory: 5.61 MB (77.39%) 
 
 #define MAX(a, b) ((a > b) ? a : b)
 

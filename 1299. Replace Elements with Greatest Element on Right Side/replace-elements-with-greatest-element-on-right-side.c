@@ -1,5 +1,5 @@
 // 1299. Replace Elements with Greatest Element on Right Side (1/22/2022)
-// Runtime: 98 ms (55.87%) Memory: 12.35 MB (76.53%) 
+// Runtime: 98 ms (52.97%) Memory: 12.35 MB (75.74%) 
 
 /**
  * Note: The returned array must be malloced, assume caller calls free().

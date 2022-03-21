@@ -1,5 +1,5 @@
 // 895. Maximum Frequency Stack (3/19/2022)
-// Runtime: 421 ms (25.00%) Memory: 67.03 MB (58.33%) 
+// Runtime: 421 ms (28.07%) Memory: 67.03 MB (63.16%) 
 
 // Macros and functions in sys/mman.h
 #define PROT_READ 0x1

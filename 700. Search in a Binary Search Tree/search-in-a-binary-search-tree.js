@@ -1,5 +1,5 @@
 // 700. Search in a Binary Search Tree (10/10/2021)
-// Runtime: 92 ms (72.14%) Memory: 45.66 MB (82.41%) 
+// Runtime: 92 ms (71.63%) Memory: 45.66 MB (83.35%) 
 
 /**
  * Definition for a binary tree node.

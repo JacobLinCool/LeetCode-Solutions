@@ -1,5 +1,5 @@
 // 1909. Remove One Element to Make the Array Strictly Increasing (6/26/2021)
-// Runtime: 68 ms (80.54%) Memory: 39.05 MB (93.00%) 
+// Runtime: 68 ms (78.33%) Memory: 39.05 MB (93.16%) 
 
 /**
  * @param {number[]} nums

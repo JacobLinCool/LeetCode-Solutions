@@ -1,5 +1,5 @@
 // 112. Path Sum (10/10/2021)
-// Runtime: 141 ms (5.32%) Memory: 42.02 MB (93.73%) 
+// Runtime: 141 ms (5.08%) Memory: 42.02 MB (93.93%) 
 
 /**
  * Definition for a binary tree node.
