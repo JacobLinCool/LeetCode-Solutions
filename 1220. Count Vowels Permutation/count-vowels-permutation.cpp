@@ -1,5 +1,5 @@
 // 1220. Count Vowels Permutation (7/5/2021)
-// Runtime: 64 ms (41.85%) Memory: 27.28 MB (23.84%) 
+// Runtime: 64 ms (41.84%) Memory: 27.28 MB (23.78%) 
 
 class Solution {
 public:

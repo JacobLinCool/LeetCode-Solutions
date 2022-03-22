@@ -1,5 +1,5 @@
 // 141. Linked List Cycle (10/4/2021)
-// Runtime: 119 ms (22.92%) Memory: 42.31 MB (85.29%) 
+// Runtime: 119 ms (22.70%) Memory: 42.31 MB (86.66%) 
 
 /**
  * Definition for singly-linked list.

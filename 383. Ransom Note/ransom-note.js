@@ -1,5 +1,5 @@
 // 383. Ransom Note (10/3/2021)
-// Runtime: 92 ms (79.00%) Memory: 41.11 MB (93.19%) 
+// Runtime: 92 ms (78.85%) Memory: 41.11 MB (93.29%) 
 
 /**
  * @param {string} ransomNote

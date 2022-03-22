@@ -1,5 +1,5 @@
 // 135. Candy (6/27/2021)
-// Runtime: 72 ms (87.90%) Memory: 43.36 MB (89.32%) 
+// Runtime: 72 ms (88.03%) Memory: 43.36 MB (89.79%) 
 
 /**
  * @param {number[]} ratings

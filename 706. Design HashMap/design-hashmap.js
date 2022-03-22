@@ -1,5 +1,5 @@
 // 706. Design HashMap (11/14/2021)
-// Runtime: 192 ms (80.34%) Memory: 47.88 MB (92.95%) 
+// Runtime: 192 ms (79.86%) Memory: 47.88 MB (93.13%) 
 
 
 class MyHashMap {

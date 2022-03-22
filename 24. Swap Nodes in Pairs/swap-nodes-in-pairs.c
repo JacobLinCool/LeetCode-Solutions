@@ -1,5 +1,5 @@
 // 24. Swap Nodes in Pairs (2/16/2022)
-// Runtime: 0 ms (94.99%) Memory: 5.79 MB (75.97%) 
+// Runtime: 0 ms (94.93%) Memory: 5.79 MB (75.96%) 
 
 /**
  * Definition for singly-linked list.
