@@ -1,5 +1,5 @@
 // 991. Broken Calculator (3/24/2022)
-// Runtime: 0 ms (93.10%) Memory: 5.38 MB (68.97%) 
+// Runtime: 0 ms (91.30%) Memory: 5.38 MB (65.22%) 
 
 int brokenCalc (int startValue, int target) {
     int operations = 0;

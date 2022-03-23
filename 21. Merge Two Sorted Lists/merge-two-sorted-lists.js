@@ -1,5 +1,5 @@
 // 21. Merge Two Sorted Lists (10/8/2021)
-// Runtime: 84 ms (63.28%) Memory: 40.37 MB (90.98%) 
+// Runtime: 84 ms (62.90%) Memory: 40.37 MB (91.46%) 
 
 /**
  * Definition for singly-linked list.

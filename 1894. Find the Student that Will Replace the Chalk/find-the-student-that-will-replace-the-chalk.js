@@ -1,5 +1,5 @@
 // 1894. Find the Student that Will Replace the Chalk (6/12/2021)
-// Runtime: 100 ms (80.65%) Memory: 49.78 MB (90.32%) 
+// Runtime: 100 ms (80.00%) Memory: 49.78 MB (93.33%) 
 
 /**
  * @param {number[]} chalk

@@ -1,5 +1,5 @@
 // 1876. Substrings of Size Three with Distinct Characters (5/29/2021)
-// Runtime: 140 ms (6.12%) Memory: 39.62 MB (92.97%) 
+// Runtime: 140 ms (6.95%) Memory: 39.62 MB (93.95%) 
 
 /**
  * @param {string} s

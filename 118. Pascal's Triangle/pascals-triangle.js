@@ -1,5 +1,5 @@
 // 118. Pascal's Triangle (6/21/2021)
-// Runtime: 64 ms (78.75%) Memory: 38.84 MB (85.47%) 
+// Runtime: 64 ms (78.51%) Memory: 38.84 MB (86.85%) 
 
 /**
  * @param {number} numRows

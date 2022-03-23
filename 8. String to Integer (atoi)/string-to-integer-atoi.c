@@ -1,5 +1,5 @@
 // 8. String to Integer (atoi) (3/21/2022)
-// Runtime: 4 ms (49.34%) Memory: 5.58 MB (76.49%) 
+// Runtime: 4 ms (49.45%) Memory: 5.58 MB (76.39%) 
 
 #define base 10LL
 
