@@ -1,5 +1,5 @@
 // 121. Best Time to Buy and Sell Stock (10/1/2021)
-// Runtime: 156 ms (10.67%) Memory: 52.42 MB (4.10%) 
+// Runtime: 156 ms (10.30%) Memory: 52.42 MB (4.05%) 
 
 /**
  * @param {number[]} prices

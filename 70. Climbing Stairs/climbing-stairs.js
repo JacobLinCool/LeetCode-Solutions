@@ -1,5 +1,5 @@
 // 70. Climbing Stairs (10/10/2021)
-// Runtime: 78 ms (48.97%) Memory: 38.06 MB (90.77%) 
+// Runtime: 78 ms (48.92%) Memory: 38.06 MB (90.78%) 
 
 /**
  * @param {number} n

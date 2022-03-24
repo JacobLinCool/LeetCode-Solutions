@@ -1,5 +1,5 @@
 // 27. Remove Element (1/12/2022)
-// Runtime: 2 ms (67.22%) Memory: 5.86 MB (88.45%) 
+// Runtime: 2 ms (67.08%) Memory: 5.86 MB (88.33%) 
 
 int removeElement(int nums[], int numsSize, int val) {
     int32_t removed = 0;

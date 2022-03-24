@@ -1,5 +1,5 @@
 // 318. Maximum Product of Word Lengths (5/27/2021)
-// Runtime: 132 ms (80.41%) Memory: 46.50 MB (57.73%) 
+// Runtime: 132 ms (79.35%) Memory: 46.50 MB (55.44%) 
 
 /**
  * @param {string[]} words
