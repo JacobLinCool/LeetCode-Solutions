@@ -1,5 +1,5 @@
 // 905. Sort Array By Parity (1/22/2022)
-// Runtime: 41 ms (41.23%) Memory: 8.89 MB (82.79%) 
+// Runtime: 41 ms (40.85%) Memory: 8.89 MB (82.68%) 
 
 int* sortArrayByParity(int nums[], int numsSize, int* returnSize) {
     int head = 0, tail = 0;

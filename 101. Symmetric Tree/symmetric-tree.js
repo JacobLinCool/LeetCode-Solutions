@@ -1,5 +1,5 @@
 // 101. Symmetric Tree (10/9/2021)
-// Runtime: 88 ms (59.84%) Memory: 41.27 MB (88.93%) 
+// Runtime: 88 ms (59.55%) Memory: 41.27 MB (90.64%) 
 
 /**
  * Definition for a binary tree node.

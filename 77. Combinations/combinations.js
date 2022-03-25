@@ -1,5 +1,5 @@
 // 77. Combinations (10/9/2021)
-// Runtime: 116 ms (81.06%) Memory: 44.04 MB (94.17%) 
+// Runtime: 116 ms (81.02%) Memory: 44.04 MB (94.31%) 
 
 /**
  * @param {number} n

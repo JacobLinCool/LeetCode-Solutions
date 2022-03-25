@@ -1,5 +1,5 @@
 // 871. Minimum Number of Refueling Stops (6/12/2021)
-// Runtime: 96 ms (76.92%) Memory: 42.08 MB (92.31%) 
+// Runtime: 96 ms (78.43%) Memory: 42.08 MB (94.12%) 
 
 /**
  * @param {number} target

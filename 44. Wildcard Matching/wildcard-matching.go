@@ -1,5 +1,5 @@
 // 44. Wildcard Matching (3/14/2022)
-// Runtime: 8 ms (79.07%) Memory: 2.87 MB (86.05%) 
+// Runtime: 8 ms (78.74%) Memory: 2.87 MB (85.83%) 
 
 func isMatch(target string, pattern string) bool {
 	target_idx, pattern_idx := 0, 0

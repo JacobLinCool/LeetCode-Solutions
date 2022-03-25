@@ -1,5 +1,5 @@
 // 701. Insert into a Binary Search Tree (10/10/2021)
-// Runtime: 120 ms (77.46%) Memory: 47.35 MB (92.98%) 
+// Runtime: 120 ms (77.45%) Memory: 47.35 MB (93.02%) 
 
 /**
  * Definition for a binary tree node.

@@ -1,5 +1,5 @@
 // 729. My Calendar I (12/27/2021)
-// Runtime: 104 ms (63.16%) Memory: 22.34 MB (31.58%) 
+// Runtime: 104 ms (50.00%) Memory: 22.34 MB (42.86%) 
 
 typedef struct Event {
     int start;

@@ -1,5 +1,5 @@
 // 387. First Unique Character in a String (10/3/2021)
-// Runtime: 128 ms (60.41%) Memory: 41.80 MB (93.47%) 
+// Runtime: 128 ms (60.27%) Memory: 41.80 MB (93.86%) 
 
 /**
  * @param {string} s

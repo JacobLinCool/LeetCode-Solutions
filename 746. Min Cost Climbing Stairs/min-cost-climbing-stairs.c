@@ -1,5 +1,5 @@
 // 746. Min Cost Climbing Stairs (12/27/2021)
-// Runtime: 4 ms (79.46%) Memory: 5.70 MB (81.14%) 
+// Runtime: 4 ms (79.52%) Memory: 5.70 MB (80.55%) 
 
 int minCostClimbingStairs(int cost[], int costSize){
     // 差一步「之前」的總 cost 跟差兩步「之前」的總 cost，起始 0 意義是第零階的 cost
