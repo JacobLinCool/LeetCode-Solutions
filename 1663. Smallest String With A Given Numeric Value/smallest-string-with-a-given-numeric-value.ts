@@ -1,5 +1,5 @@
 // 1663. Smallest String With A Given Numeric Value (3/23/2022)
-// Runtime: 153 ms (80.14%) Memory: 48.50 MB (84.40%) 
+// Runtime: 153 ms (80.28%) Memory: 48.50 MB (84.51%) 
 
 function getSmallestString(n: number, k: number): string {
     k -= n;

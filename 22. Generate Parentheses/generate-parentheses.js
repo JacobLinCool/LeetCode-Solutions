@@ -1,5 +1,5 @@
 // 22. Generate Parentheses (6/16/2021)
-// Runtime: 76 ms (64.46%) Memory: 39.98 MB (93.39%) 
+// Runtime: 76 ms (64.20%) Memory: 39.98 MB (94.00%) 
 
 /**
  * @param {number} n

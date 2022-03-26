@@ -1,5 +1,5 @@
 // 1663. Smallest String With A Given Numeric Value (3/23/2022)
-// Runtime: 37 ms (51.96%) Memory: 15.26 MB (79.15%) 
+// Runtime: 37 ms (52.37%) Memory: 15.26 MB (79.88%) 
 
 char* getSmallestString (int n, int k) {
     char* ans = (char*)calloc(n + 1, sizeof(char));

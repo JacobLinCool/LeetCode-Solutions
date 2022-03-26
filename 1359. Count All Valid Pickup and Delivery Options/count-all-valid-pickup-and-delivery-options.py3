@@ -1,5 +1,5 @@
 # 1359. Count All Valid Pickup and Delivery Options (3/6/2022)
-# Runtime: 42 ms (62.04%) Memory: 13.78 MB (89.27%) 
+# Runtime: 42 ms (62.01%) Memory: 13.78 MB (89.24%) 
 
 class Solution:
     def countOrders(self, n: int) -> int:

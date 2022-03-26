@@ -1,5 +1,5 @@
 // 1881. Maximum Value after Insertion (5/30/2021)
-// Runtime: 200 ms (9.68%) Memory: 67.30 MB (16.13%) 
+// Runtime: 200 ms (9.84%) Memory: 67.30 MB (16.39%) 
 
 /**
  * @param {string} n

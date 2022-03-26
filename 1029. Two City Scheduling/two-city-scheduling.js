@@ -1,5 +1,5 @@
 // 1029. Two City Scheduling (3/25/2022)
-// Runtime: 65 ms (79.31%) Memory: 42.04 MB (70.94%) 
+// Runtime: 65 ms (75.96%) Memory: 42.04 MB (74.03%) 
 
 /**
  * @param {number[][]} costs

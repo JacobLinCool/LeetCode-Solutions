@@ -1,5 +1,5 @@
 // 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers (5/27/2021)
-// Runtime: 84 ms (88.10%) Memory: 43.05 MB (94.21%) 
+// Runtime: 84 ms (87.75%) Memory: 43.05 MB (94.37%) 
 
 /**
  * @param {string} n

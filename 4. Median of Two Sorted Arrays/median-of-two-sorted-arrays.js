@@ -1,5 +1,5 @@
 // 4. Median of Two Sorted Arrays (5/29/2021)
-// Runtime: 128 ms (70.23%) Memory: 43.58 MB (94.10%) 
+// Runtime: 128 ms (69.90%) Memory: 43.58 MB (94.08%) 
 
 /**
  * @param {number[]} nums1
