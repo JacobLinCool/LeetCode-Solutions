@@ -1,1 +1,0 @@
-const e={key:"v-2ec52806",path:"/704-binary-search/",title:"704. Binary Search",lang:"en-US",frontmatter:{title:"704. Binary Search"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"704-binary-search/index.md"};export{e as data};
