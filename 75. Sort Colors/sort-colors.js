@@ -1,5 +1,5 @@
 // 75. Sort Colors (11/14/2021)
-// Runtime: 72 ms (63.25%) Memory: 39.01 MB (92.60%) 
+// Runtime: 72 ms (62.96%) Memory: 39.01 MB (94.02%) 
 
 /**
  * @param {number[]} nums

@@ -1,5 +1,5 @@
 // 895. Maximum Frequency Stack (3/19/2022)
-// Runtime: 303 ms (95.00%) Memory: 72.69 MB (68.75%) 
+// Runtime: 303 ms (93.90%) Memory: 72.69 MB (68.29%) 
 
 type frequency = number;
 

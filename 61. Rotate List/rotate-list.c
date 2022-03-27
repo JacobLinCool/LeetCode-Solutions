@@ -1,5 +1,5 @@
 // 61. Rotate List (3/11/2022)
-// Runtime: 8 ms (22.93%) Memory: 6.09 MB (73.12%) 
+// Runtime: 8 ms (22.81%) Memory: 6.09 MB (73.04%) 
 
 /**
  * Definition for singly-linked list.

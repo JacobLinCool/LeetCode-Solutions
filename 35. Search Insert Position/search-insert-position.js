@@ -1,5 +1,5 @@
 // 35. Search Insert Position (9/29/2021)
-// Runtime: 76 ms (55.16%) Memory: 39.87 MB (92.14%) 
+// Runtime: 76 ms (54.49%) Memory: 39.87 MB (93.39%) 
 
 /**
  * @param {number[]} nums

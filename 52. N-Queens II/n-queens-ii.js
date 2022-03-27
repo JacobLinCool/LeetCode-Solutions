@@ -1,5 +1,5 @@
 // 52. N-Queens II (5/29/2021)
-// Runtime: 76 ms (77.18%) Memory: 38.63 MB (94.63%) 
+// Runtime: 76 ms (76.87%) Memory: 38.63 MB (94.56%) 
 
 /**
  * @param {number} n

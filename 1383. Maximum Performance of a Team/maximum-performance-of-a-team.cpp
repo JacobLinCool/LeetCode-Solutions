@@ -1,5 +1,5 @@
 // 1383. Maximum Performance of a Team (6/6/2021)
-// Runtime: 72 ms (90.80%) Memory: 36.90 MB (55.17%) 
+// Runtime: 72 ms (90.59%) Memory: 36.90 MB (55.09%) 
 
 class Solution {
 public:

@@ -1,5 +1,5 @@
 // 20. Valid Parentheses (3/13/2022)
-// Runtime: 0 ms (94.56%) Memory: 6.82 MB (0.00%) 
+// Runtime: 0 ms (94.77%) Memory: 6.82 MB (0.00%) 
 
 #define StructStack(_name, _type) \
     typedef struct _name { \

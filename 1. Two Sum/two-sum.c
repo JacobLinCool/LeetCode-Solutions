@@ -1,5 +1,5 @@
 // 1. Two Sum (12/5/2021)
-// Runtime: 72 ms (76.06%) Memory: 6.56 MB (22.83%) 
+// Runtime: 72 ms (75.95%) Memory: 6.56 MB (22.90%) 
 
 int* twoSum(int* nums, int nums_size, int target, int* return_size) {
     int* result = (int*)malloc(sizeof(int) * 2);

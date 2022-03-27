@@ -1,5 +1,5 @@
 // 1029. Two City Scheduling (3/25/2022)
-// Runtime: 111 ms (32.84%) Memory: 44.16 MB (80.60%) 
+// Runtime: 111 ms (30.35%) Memory: 44.16 MB (75.86%) 
 
 function twoCitySchedCost(costs: number[][]): number {
     costs.sort((a: number[], b: number[]) => (a[0] - a[1]) - (b[0] - b[1]));

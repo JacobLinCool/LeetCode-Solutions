@@ -1,5 +1,5 @@
 // 19. Remove Nth Node From End of List (10/2/2021)
-// Runtime: 106 ms (16.66%) Memory: 40.22 MB (92.75%) 
+// Runtime: 106 ms (16.50%) Memory: 40.22 MB (93.92%) 
 
 /**
  * Definition for singly-linked list.
