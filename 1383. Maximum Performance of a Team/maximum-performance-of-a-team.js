@@ -1,5 +1,5 @@
 // 1383. Maximum Performance of a Team (6/8/2021)
-// Runtime: 484 ms (0.00%) Memory: 69.29 MB (42.86%) 
+// Runtime: 484 ms (0.00%) Memory: 69.29 MB (50.00%) 
 
 /**
  * @param {number} n

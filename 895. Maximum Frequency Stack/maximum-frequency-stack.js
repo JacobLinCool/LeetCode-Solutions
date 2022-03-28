@@ -1,5 +1,5 @@
 // 895. Maximum Frequency Stack (3/19/2022)
-// Runtime: 386 ms (64.73%) Memory: 75.94 MB (34.67%) 
+// Runtime: 386 ms (64.97%) Memory: 75.94 MB (34.88%) 
 
 class FreqStack {
     #most = 0;

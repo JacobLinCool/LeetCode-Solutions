@@ -1,5 +1,5 @@
 // 1029. Two City Scheduling (3/25/2022)
-// Runtime: 2 ms (80.65%) Memory: 6.03 MB (64.98%) 
+// Runtime: 2 ms (80.89%) Memory: 6.03 MB (64.00%) 
 
 int comp(int* a[], int* b[]) {
     return ((*a)[0] - (*a)[1]) - ((*b)[0] - (*b)[1]);

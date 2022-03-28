@@ -1,5 +1,5 @@
 // 1695. Maximum Erasure Value (5/29/2021)
-// Runtime: 148 ms (91.75%) Memory: 53.86 MB (91.75%) 
+// Runtime: 148 ms (92.55%) Memory: 53.86 MB (92.55%) 
 
 /**
  * @param {number[]} nums

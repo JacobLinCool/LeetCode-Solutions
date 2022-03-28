@@ -1,5 +1,5 @@
 // 36. Valid Sudoku (10/2/2021)
-// Runtime: 121 ms (36.85%) Memory: 40.96 MB (94.88%) 
+// Runtime: 121 ms (36.70%) Memory: 40.96 MB (94.87%) 
 
 /**
  * @param {character[][]} board

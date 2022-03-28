@@ -1,5 +1,5 @@
 // 658. Find K Closest Elements (7/3/2021)
-// Runtime: 120 ms (61.45%) Memory: 45.48 MB (94.36%) 
+// Runtime: 120 ms (61.35%) Memory: 45.48 MB (94.99%) 
 
 /**
  * @param {number[]} arr

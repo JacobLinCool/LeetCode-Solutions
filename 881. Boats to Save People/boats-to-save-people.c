@@ -1,5 +1,5 @@
 // 881. Boats to Save People (3/24/2022)
-// Runtime: 112 ms (69.70%) Memory: 11.04 MB (40.15%) 
+// Runtime: 112 ms (68.54%) Memory: 11.04 MB (40.07%) 
 
 int comp (int* a, int *b) {
     return *a - *b;

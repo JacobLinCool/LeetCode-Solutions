@@ -1,5 +1,5 @@
 // 97. Interleaving String (6/3/2021)
-// Runtime: 168 ms (3.62%) Memory: 42.42 MB (93.48%) 
+// Runtime: 168 ms (2.55%) Memory: 42.42 MB (93.43%) 
 
 /**
  * @param {string} s1
