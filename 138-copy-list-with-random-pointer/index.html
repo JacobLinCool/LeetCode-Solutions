@@ -23,7 +23,7 @@
 			}
     </script>
     <title>138. Copy List with Random Pointer | LeetCode Solutions</title><meta name="description" content="">
-    <link rel="modulepreload" href="/assets/app.fcc446e4.js"><link rel="modulepreload" href="/assets/index.html.2821d966.js"><link rel="modulepreload" href="/assets/index.html.716d3193.js"><link rel="modulepreload" href="/assets/plugin-vue_export-helper.21dcd24c.js">
+    <link rel="modulepreload" href="/assets/app.4c1129a6.js"><link rel="modulepreload" href="/assets/index.html.2821d966.js"><link rel="modulepreload" href="/assets/index.html.dce6880a.js"><link rel="modulepreload" href="/assets/plugin-vue_export-helper.21dcd24c.js">
     <link rel="stylesheet" href="/assets/style.28f5ce32.css">
   </head>
   <body>
@@ -34,7 +34,7 @@ Output: [[1,1],[2,1]]
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p><strong>Example 3:</strong></p><p><strong><img src="https://assets.leetcode.com/uploads/2019/12/18/e3.png" alt=""></strong></p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>Input: head = [[3,null],[3,0],[3,null]]
 Output: [[3,null],[3,0],[3,null]]
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p><strong>Constraints:</strong></p><ul><li><code>0 &lt;= n &lt;= 1000</code></li><li><code>-10^4 &lt;= Node.val &lt;= 10^4</code></li><li><code>Node.random</code> is <code>null</code> or is pointing to some node in the linked list.</li></ul><h2 id="solution" tabindex="-1"><a class="header-anchor" href="#solution" aria-hidden="true">#</a> Solution</h2><p>I use a <code>hashtable</code> to memorize if the node has been copied.</p><p>The size of the table is <code>100003</code>, which is the smallest prime number after 100000. I think it is big enough, and the submission result has confirmed my assumption.</p><p>I found that many people use a <em>interweave list</em> solution, in my opinion, that is not a good method because it makes side-effect to the original list, which should not happen in a <em>deep copy</em> situation.</p><blockquote><p>After further investigating, I found that <code>1111</code> sized hashtable is large enough for this problem.</p></blockquote><h2 id="code" tabindex="-1"><a class="header-anchor" href="#code" aria-hidden="true">#</a> Code</h2><h3 id="c" tabindex="-1"><a class="header-anchor" href="#c" aria-hidden="true">#</a> C</h3><div class="language-c ext-c line-numbers-mode"><pre class="language-c"><code><span class="token comment">// 138. Copy List with Random Pointer (3/12/2022)</span>
-<span class="token comment">// Runtime: 8 ms (82.28%) Memory: 8.40 MB (58.45%) </span>
+<span class="token comment">// Runtime: 8 ms (81.86%) Memory: 8.40 MB (58.47%) </span>
 
 <span class="token comment">/**
  * Definition for a Node.
@@ -70,6 +70,6 @@ Output: [[3,null],[3,0],[3,null]]
 <span class="token punctuation">}</span>
 
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br></div></div><!--]--></div><footer class="page-meta"><!----><!----><!----></footer><!----><!--[--><!--]--></main><!--]--></div><!----><!--]--></div>
-    <script type="module" src="/assets/app.fcc446e4.js" defer></script>
+    <script type="module" src="/assets/app.4c1129a6.js" defer></script>
   </body>
 </html>
