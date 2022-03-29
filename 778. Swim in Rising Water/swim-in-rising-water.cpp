@@ -1,5 +1,5 @@
 // 778. Swim in Rising Water (6/21/2021)
-// Runtime: 16 ms (86.15%) Memory: 8.82 MB (79.69%) 
+// Runtime: 16 ms (86.10%) Memory: 8.82 MB (79.91%) 
 
 struct T {
   int i;

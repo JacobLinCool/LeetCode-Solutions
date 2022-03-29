@@ -1,5 +1,5 @@
 // 231. Power of Two (12/21/2021)
-// Runtime: 80 ms (71.63%) Memory: 40.46 MB (94.18%) 
+// Runtime: 80 ms (71.48%) Memory: 40.46 MB (93.96%) 
 
 /**
  * @param {number} n

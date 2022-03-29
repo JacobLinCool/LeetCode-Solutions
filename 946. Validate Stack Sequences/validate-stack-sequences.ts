@@ -1,5 +1,5 @@
 // 946. Validate Stack Sequences (3/16/2022)
-// Runtime: 110 ms (38.19%) Memory: 45.54 MB (17.36%) 
+// Runtime: 110 ms (37.93%) Memory: 45.54 MB (17.24%) 
 
 function validateStackSequences(pushed: number[], popped: number[]): boolean {
     const stk: number[] = [];

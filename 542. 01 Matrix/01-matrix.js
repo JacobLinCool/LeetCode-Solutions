@@ -1,5 +1,5 @@
 // 542. 01 Matrix (10/6/2021)
-// Runtime: 188 ms (72.96%) Memory: 48.32 MB (94.74%) 
+// Runtime: 188 ms (73.33%) Memory: 48.32 MB (94.66%) 
 
 /**
  * @param {number[][]} mat

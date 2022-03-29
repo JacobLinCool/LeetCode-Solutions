@@ -1,5 +1,5 @@
 // 576. Out of Boundary Paths (6/24/2021)
-// Runtime: 100 ms (85.29%) Memory: 46.43 MB (79.41%) 
+// Runtime: 100 ms (83.33%) Memory: 46.43 MB (80.56%) 
 
 /**
  * @param {number} m

@@ -1,5 +1,5 @@
 // 344. Reverse String (10/1/2021)
-// Runtime: 127 ms (47.16%) Memory: 46.52 MB (94.85%) 
+// Runtime: 127 ms (46.85%) Memory: 46.52 MB (94.81%) 
 
 /**
  * @param {character[]} s

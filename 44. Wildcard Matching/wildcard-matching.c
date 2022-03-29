@@ -1,5 +1,5 @@
 // 44. Wildcard Matching (3/14/2022)
-// Runtime: 8 ms (67.19%) Memory: 5.79 MB (72.66%) 
+// Runtime: 8 ms (68.42%) Memory: 5.79 MB (74.56%) 
 
 bool isMatch(char* str, char* pat) {
     int str_len = strlen(str), pat_len = strlen(pat);

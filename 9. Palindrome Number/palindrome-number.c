@@ -1,5 +1,5 @@
 // 9. Palindrome Number (12/27/2021)
-// Runtime: 8 ms (83.43%) Memory: 6.07 MB (20.41%) 
+// Runtime: 8 ms (83.48%) Memory: 6.07 MB (20.35%) 
 
 bool isPalindrome(int x){
     // x 是負數，直接 false
