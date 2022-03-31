@@ -23,7 +23,7 @@
 			}
     </script>
     <title>112. Path Sum | LeetCode Solutions</title><meta name="description" content="">
-    <link rel="modulepreload" href="/assets/app.844e951c.js"><link rel="modulepreload" href="/assets/index.html.ca4cec5e.js"><link rel="modulepreload" href="/assets/index.html.c7ec9945.js">
+    <link rel="modulepreload" href="/assets/app.ce1f0bb9.js"><link rel="modulepreload" href="/assets/index.html.ca4cec5e.js"><link rel="modulepreload" href="/assets/index.html.5e1f2344.js">
     <link rel="stylesheet" href="/assets/style.28f5ce32.css">
   </head>
   <body>
@@ -40,7 +40,7 @@ There is no root-to-leaf path with sum = 5.
 Output: false
 Explanation: Since the tree is empty, there are no root-to-leaf paths.
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><p><strong>Constraints:</strong></p><ul><li>The number of nodes in the tree is in the range <code>[0, 5000]</code>.</li><li><code>-1000 &lt;= Node.val &lt;= 1000</code></li><li><code>-1000 &lt;= targetSum &lt;= 1000</code></li></ul><h2 id="code" tabindex="-1"><a class="header-anchor" href="#code" aria-hidden="true">#</a> Code</h2><h3 id="js" tabindex="-1"><a class="header-anchor" href="#js" aria-hidden="true">#</a> JS</h3><div class="language-javascript ext-js line-numbers-mode"><pre class="language-javascript"><code><span class="token comment">// 112. Path Sum (10/10/2021)</span>
-<span class="token comment">// Runtime: 141 ms (2.80%) Memory: 42.02 MB (94.66%) </span>
+<span class="token comment">// Runtime: 141 ms (2.51%) Memory: 42.02 MB (94.69%) </span>
 
 <span class="token doc-comment comment">/**
  * Definition for a binary tree node.
@@ -61,6 +61,6 @@ Explanation: Since the tree is empty, there are no root-to-leaf paths.
     <span class="token keyword">return</span> <span class="token function">hasPathSum</span><span class="token punctuation">(</span>root<span class="token punctuation">.</span>left<span class="token punctuation">,</span> targetSum <span class="token operator">-</span> root<span class="token punctuation">.</span>val<span class="token punctuation">)</span> <span class="token operator">||</span> <span class="token function">hasPathSum</span><span class="token punctuation">(</span>root<span class="token punctuation">.</span>right<span class="token punctuation">,</span> targetSum <span class="token operator">-</span> root<span class="token punctuation">.</span>val<span class="token punctuation">)</span><span class="token punctuation">;</span>
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br></div></div><!--]--></div><footer class="page-meta"><!----><!----><!----></footer><!----><!--[--><!--]--></main><!--]--></div><!----><!--]--></div>
-    <script type="module" src="/assets/app.844e951c.js" defer></script>
+    <script type="module" src="/assets/app.ce1f0bb9.js" defer></script>
   </body>
 </html>
