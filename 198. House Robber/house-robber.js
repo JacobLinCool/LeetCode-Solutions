@@ -1,5 +1,5 @@
 // 198. House Robber (10/10/2021)
-// Runtime: 104 ms (9.78%) Memory: 38.32 MB (94.78%) 
+// Runtime: 104 ms (9.66%) Memory: 38.32 MB (94.75%) 
 
 /**
  * @param {number[]} nums

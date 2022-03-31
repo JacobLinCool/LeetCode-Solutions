@@ -1,5 +1,5 @@
 // 740. Delete and Earn (3/5/2022)
-// Runtime: 6 ms (57.47%) Memory: 5.94 MB (64.71%) 
+// Runtime: 6 ms (58.06%) Memory: 5.94 MB (64.52%) 
 
 int deleteAndEarn (int nums[], int size) {
     int vals[10002] = { 0 };

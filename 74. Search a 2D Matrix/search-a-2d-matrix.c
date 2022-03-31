@@ -1,5 +1,5 @@
 // 74. Search a 2D Matrix (3/30/2022)
-// Runtime: 0 ms (94.10%) Memory: 6.34 MB (21.88%) 
+// Runtime: 0 ms (93.99%) Memory: 6.34 MB (21.20%) 
 
 bool searchMatrix (int** matrix, int matrix_size, int* matrix_col_size, int target) {
     int row = 0;

@@ -1,5 +1,5 @@
 // 307. Range Sum Query - Mutable (6/18/2021)
-// Runtime: 588 ms (76.16%) Memory: 71.32 MB (94.70%) 
+// Runtime: 588 ms (76.88%) Memory: 71.32 MB (95.00%) 
 
 // lowbit: x 化為二進位後只保留最右邊的 1 的數
 function lowbit(x) {

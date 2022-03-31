@@ -1,5 +1,5 @@
 // 392. Is Subsequence (3/2/2022)
-// Runtime: 4 ms (27.76%) Memory: 5.76 MB (0.00%) 
+// Runtime: 4 ms (27.86%) Memory: 5.76 MB (0.00%) 
 
 bool isSubsequence (char* s, char* t) {
     int s_len = strlen(s), t_len = strlen(t), matched = 0;
