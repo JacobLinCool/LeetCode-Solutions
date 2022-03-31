@@ -1,5 +1,5 @@
 // 1710. Maximum Units on a Truck (6/14/2021)
-// Runtime: 84 ms (76.35%) Memory: 40.96 MB (94.88%) 
+// Runtime: 84 ms (75.79%) Memory: 40.96 MB (94.89%) 
 
 /**
  * @param {number[][]} boxTypes

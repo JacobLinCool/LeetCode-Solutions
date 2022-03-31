@@ -1,5 +1,5 @@
 // 120. Triangle (10/10/2021)
-// Runtime: 68 ms (80.12%) Memory: 39.74 MB (94.99%) 
+// Runtime: 68 ms (79.79%) Memory: 39.74 MB (94.87%) 
 
 /**
  * @param {number[][]} triangle

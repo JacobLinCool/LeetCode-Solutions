@@ -1,5 +1,5 @@
 // 83. Remove Duplicates from Sorted List (10/6/2021)
-// Runtime: 88 ms (59.67%) Memory: 40.75 MB (94.64%) 
+// Runtime: 88 ms (59.71%) Memory: 40.75 MB (94.65%) 
 
 /**
  * Definition for singly-linked list.

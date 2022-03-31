@@ -1,5 +1,5 @@
 // 116. Populating Next Right Pointers in Each Node (10/6/2021)
-// Runtime: 100 ms (59.29%) Memory: 45.44 MB (94.55%) 
+// Runtime: 100 ms (59.29%) Memory: 45.44 MB (94.66%) 
 
 /**
  * // Definition for a Node.

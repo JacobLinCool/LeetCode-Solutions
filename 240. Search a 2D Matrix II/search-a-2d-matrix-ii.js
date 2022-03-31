@@ -1,5 +1,5 @@
 // 240. Search a 2D Matrix II (11/14/2021)
-// Runtime: 300 ms (92.30%) Memory: 42.45 MB (94.39%) 
+// Runtime: 300 ms (92.26%) Memory: 42.45 MB (94.55%) 
 
 /**
  * @param {number[][]} matrix

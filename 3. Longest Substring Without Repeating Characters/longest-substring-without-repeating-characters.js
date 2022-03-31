@@ -1,5 +1,5 @@
 // 3. Longest Substring Without Repeating Characters (10/3/2021)
-// Runtime: 88 ms (87.06%) Memory: 43.28 MB (94.99%) 
+// Runtime: 88 ms (87.14%) Memory: 43.28 MB (94.99%) 
 
 /**
  * @param {string} s

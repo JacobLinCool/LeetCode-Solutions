@@ -1,5 +1,5 @@
 // 3. Longest Substring Without Repeating Characters (5/27/2021)
-// Runtime: 8 ms (69.74%) Memory: 2.82 MB (65.68%) 
+// Runtime: 8 ms (69.50%) Memory: 2.82 MB (66.04%) 
 
 func lengthOfLongestSubstring(s string) int {
 	solution := 0

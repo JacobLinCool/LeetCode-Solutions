@@ -1,5 +1,5 @@
 // 729. My Calendar I (6/10/2021)
-// Runtime: 164 ms (86.79%) Memory: 47.40 MB (94.34%) 
+// Runtime: 164 ms (87.50%) Memory: 47.40 MB (94.23%) 
 
 /** MyCalendar.book
  * @param {number} start 
