@@ -1,5 +1,5 @@
 // 26. Remove Duplicates from Sorted Array (12/27/2021)
-// Runtime: 8 ms (94.00%) Memory: 7.45 MB (67.31%) 
+// Runtime: 8 ms (93.99%) Memory: 7.45 MB (67.21%) 
 
 int removeDuplicates(int nums[], int numsSize) {
     // 當前要與後面比較的 index

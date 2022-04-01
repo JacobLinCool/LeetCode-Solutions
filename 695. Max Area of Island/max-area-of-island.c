@@ -1,5 +1,5 @@
 // 695. Max Area of Island (12/26/2021)
-// Runtime: 8 ms (93.78%) Memory: 6.88 MB (22.82%) 
+// Runtime: 8 ms (93.42%) Memory: 6.88 MB (22.63%) 
 
 int maxAreaOfIsland(int** grid, int gridSize, int* gridColSize) {
     int m = gridSize, n = gridColSize[0];

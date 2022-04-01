@@ -1,5 +1,5 @@
 // 235. Lowest Common Ancestor of a Binary Search Tree (10/12/2021)
-// Runtime: 136 ms (20.10%) Memory: 48.54 MB (92.72%) 
+// Runtime: 136 ms (20.63%) Memory: 48.54 MB (92.38%) 
 
 /**
  * Definition for a binary tree node.

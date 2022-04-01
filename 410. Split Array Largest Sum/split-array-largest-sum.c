@@ -1,5 +1,5 @@
 // 410. Split Array Largest Sum (3/31/2022)
-// Runtime: 0 ms (90.48%) Memory: 5.71 MB (71.43%) 
+// Runtime: 0 ms (93.44%) Memory: 5.71 MB (68.85%) 
 
 #define max(a, b) ((a) > (b) ? a : b)
 

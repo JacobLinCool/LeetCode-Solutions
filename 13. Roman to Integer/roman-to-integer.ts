@@ -1,5 +1,5 @@
 // 13. Roman to Integer (3/23/2022)
-// Runtime: 230 ms (31.34%) Memory: 48.64 MB (47.67%) 
+// Runtime: 230 ms (31.16%) Memory: 48.64 MB (47.94%) 
 
 function romanToInt(s: string): number {
     const dict = { M: 1000, D: 500, C: 100, L: 50, X: 10, V: 5, I: 1 };

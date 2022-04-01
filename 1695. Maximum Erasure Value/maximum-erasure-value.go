@@ -1,5 +1,5 @@
 // 1695. Maximum Erasure Value (5/29/2021)
-// Runtime: 192 ms (77.78%) Memory: 8.64 MB (74.07%) 
+// Runtime: 192 ms (80.77%) Memory: 8.64 MB (73.08%) 
 
 func maximumUniqueSubarray(nums []int) int {
     max, sum := 0, 0

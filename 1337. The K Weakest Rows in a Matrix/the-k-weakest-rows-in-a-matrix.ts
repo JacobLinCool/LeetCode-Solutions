@@ -1,5 +1,5 @@
 // 1337. The K Weakest Rows in a Matrix (3/27/2022)
-// Runtime: 94 ms (56.17%) Memory: 44.96 MB (67.73%) 
+// Runtime: 94 ms (55.69%) Memory: 44.96 MB (67.84%) 
 
 function kWeakestRows(mat: number[][], k: number): number[] {
     const map = mat.map((row, idx) => [idx, row.filter(n => n).length]);

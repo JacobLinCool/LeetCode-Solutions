@@ -1,5 +1,5 @@
 // 704. Binary Search (3/26/2022)
-// Runtime: 32 ms (89.43%) Memory: 7.22 MB (20.31%) 
+// Runtime: 32 ms (89.41%) Memory: 7.22 MB (20.45%) 
 
 int search (int nums[], int nums_size, int target) {
     int upper = nums_size - 1, lower = 0;
