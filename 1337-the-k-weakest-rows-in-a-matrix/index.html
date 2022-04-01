@@ -23,7 +23,7 @@
 			}
     </script>
     <title>1337. The K Weakest Rows in a Matrix | LeetCode Solutions</title><meta name="description" content="">
-    <link rel="modulepreload" href="/assets/app.e9558021.js"><link rel="modulepreload" href="/assets/index.html.1587a72d.js"><link rel="modulepreload" href="/assets/index.html.c0c59be2.js">
+    <link rel="modulepreload" href="/assets/app.fff1e675.js"><link rel="modulepreload" href="/assets/index.html.1587a72d.js"><link rel="modulepreload" href="/assets/index.html.f48ec0cf.js">
     <link rel="stylesheet" href="/assets/style.28f5ce32.css">
   </head>
   <body>
@@ -58,7 +58,7 @@ The number of soldiers in each row is:
 - Row 3: 1 
 The rows ordered from weakest to strongest are [0,2,3,1].
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br></div></div><p><strong>Constraints:</strong></p><ul><li><code>m == mat.length</code></li><li><code>n == mat[i].length</code></li><li><code>2 &lt;= n, m &lt;= 100</code></li><li><code>1 &lt;= k &lt;= m</code></li><li><code>matrix[i][j]</code> is either 0 or 1.</li></ul><h2 id="code" tabindex="-1"><a class="header-anchor" href="#code" aria-hidden="true">#</a> Code</h2><h3 id="js" tabindex="-1"><a class="header-anchor" href="#js" aria-hidden="true">#</a> JS</h3><div class="language-javascript ext-js line-numbers-mode"><pre class="language-javascript"><code><span class="token comment">// 1337. The K Weakest Rows in a Matrix (3/27/2022)</span>
-<span class="token comment">// Runtime: 100 ms (30.83%) Memory: 43.72 MB (88.50%) </span>
+<span class="token comment">// Runtime: 100 ms (30.82%) Memory: 43.72 MB (88.31%) </span>
 
 <span class="token doc-comment comment">/**
  * <span class="token keyword">@param</span> <span class="token class-name"><span class="token punctuation">{</span>number<span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">}</span></span> <span class="token parameter">mat</span>
@@ -73,7 +73,7 @@ The rows ordered from weakest to strongest are [0,2,3,1].
 <span class="token punctuation">}</span><span class="token punctuation">;</span>
 
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br></div></div><h3 id="ts" tabindex="-1"><a class="header-anchor" href="#ts" aria-hidden="true">#</a> TS</h3><div class="language-typescript ext-ts line-numbers-mode"><pre class="language-typescript"><code><span class="token comment">// 1337. The K Weakest Rows in a Matrix (3/27/2022)</span>
-<span class="token comment">// Runtime: 94 ms (56.17%) Memory: 44.96 MB (67.73%) </span>
+<span class="token comment">// Runtime: 94 ms (55.69%) Memory: 44.96 MB (67.84%) </span>
 
 <span class="token keyword">function</span> <span class="token function">kWeakestRows</span><span class="token punctuation">(</span>mat<span class="token operator">:</span> <span class="token builtin">number</span><span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> k<span class="token operator">:</span> <span class="token builtin">number</span><span class="token punctuation">)</span><span class="token operator">:</span> <span class="token builtin">number</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token punctuation">{</span>
     <span class="token keyword">const</span> map <span class="token operator">=</span> mat<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span>row<span class="token punctuation">,</span> idx<span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">[</span>idx<span class="token punctuation">,</span> row<span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>n <span class="token operator">=&gt;</span> n<span class="token punctuation">)</span><span class="token punctuation">.</span>length<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -82,6 +82,6 @@ The rows ordered from weakest to strongest are [0,2,3,1].
 <span class="token punctuation">}</span><span class="token punctuation">;</span>
 
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div><!--]--></div><footer class="page-meta"><!----><!----><!----></footer><!----><!--[--><!--]--></main><!--]--></div><!----><!--]--></div>
-    <script type="module" src="/assets/app.e9558021.js" defer></script>
+    <script type="module" src="/assets/app.fff1e675.js" defer></script>
   </body>
 </html>
