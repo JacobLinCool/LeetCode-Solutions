@@ -1,1 +1,0 @@
-const t={key:"v-6ea62ead",path:"/567-permutation-in-string/",title:"567. Permutation in String",lang:"en-US",frontmatter:{title:"567. Permutation in String"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"567-permutation-in-string/index.md"};export{t as data};

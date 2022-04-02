@@ -1,1 +1,0 @@
-const e={key:"v-0788d9f2",path:"/15-3sum/",title:"15. 3Sum",lang:"en-US",frontmatter:{title:"15. 3Sum"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"15-3sum/index.md"};export{e as data};
