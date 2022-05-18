@@ -1,0 +1,1 @@
+const e={key:"v-d90fd58c",path:"/336-palindrome-pairs/",title:"336. Palindrome Pairs",lang:"en-US",frontmatter:{title:"336. Palindrome Pairs"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"336-palindrome-pairs/index.md"};export{e as data};

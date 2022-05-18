@@ -1,0 +1,1 @@
+const e={key:"v-1bd97896",path:"/206-reverse-linked-list/",title:"206. Reverse Linked List",lang:"en-US",frontmatter:{title:"206. Reverse Linked List"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"206-reverse-linked-list/index.md"};export{e as data};

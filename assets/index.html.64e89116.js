@@ -1,0 +1,1 @@
+const e={key:"v-df7a2984",path:"/191-number-of-1-bits/",title:"191. Number of 1 Bits",lang:"en-US",frontmatter:{title:"191. Number of 1 Bits"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"191-number-of-1-bits/index.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-73a85994",path:"/682-baseball-game/",title:"682. Baseball Game",lang:"en-US",frontmatter:{title:"682. Baseball Game"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"GO",slug:"go",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"682-baseball-game/index.md"};export{e as data};

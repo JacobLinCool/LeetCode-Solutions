@@ -1,0 +1,1 @@
+const e={key:"v-cf500646",path:"/135-candy/",title:"135. Candy",lang:"en-US",frontmatter:{title:"135. Candy"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"135-candy/index.md"};export{e as data};

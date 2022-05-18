@@ -1,0 +1,1 @@
+const e={key:"v-5b3b46e5",path:"/240-search-a-2d-matrix-ii/",title:"240. Search a 2D Matrix II",lang:"en-US",frontmatter:{title:"240. Search a 2D Matrix II"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"240-search-a-2d-matrix-ii/index.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-73e2694f",path:"/67-add-binary/",title:"67. Add Binary",lang:"en-US",frontmatter:{title:"67. Add Binary"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]},{level:3,title:"TS",slug:"ts",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"67-add-binary/index.md"};export{e as data};

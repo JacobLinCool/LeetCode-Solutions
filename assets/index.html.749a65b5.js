@@ -1,0 +1,1 @@
+const e={key:"v-159f8b9a",path:"/881-boats-to-save-people/",title:"881. Boats to Save People",lang:"en-US",frontmatter:{title:"881. Boats to Save People"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"881-boats-to-save-people/index.md"};export{e as data};

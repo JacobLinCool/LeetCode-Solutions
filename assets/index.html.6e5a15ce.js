@@ -1,0 +1,1 @@
+const e={key:"v-61b1cf98",path:"/189-rotate-array/",title:"189. Rotate Array",lang:"en-US",frontmatter:{title:"189. Rotate Array"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"189-rotate-array/index.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-53364bc8",path:"/8-string-to-integer-(atoi)/",title:"8. String to Integer (atoi)",lang:"en-US",frontmatter:{title:"8. String to Integer (atoi)"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"8-string-to-integer-(atoi)/index.md"};export{t as data};

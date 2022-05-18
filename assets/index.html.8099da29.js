@@ -1,0 +1,1 @@
+const e={key:"v-9377fa0e",path:"/169-majority-element/",title:"169. Majority Element",lang:"en-US",frontmatter:{title:"169. Majority Element"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"169-majority-element/index.md"};export{e as data};
