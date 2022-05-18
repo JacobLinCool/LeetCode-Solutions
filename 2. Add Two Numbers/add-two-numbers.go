@@ -1,5 +1,5 @@
 // 2. Add Two Numbers (5/27/2021)
-// Runtime: 12 ms (55.67%) Memory: 4.75 MB (8.01%) 
+// Runtime: 12 ms (55.49%) Memory: 4.75 MB (7.58%) 
 
 /**
  * Definition for singly-linked list.

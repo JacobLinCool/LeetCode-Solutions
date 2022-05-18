@@ -1,5 +1,5 @@
 // 287. Find the Duplicate Number (3/29/2022)
-// Runtime: 140 ms (42.15%) Memory: 14.42 MB (9.90%) 
+// Runtime: 140 ms (42.82%) Memory: 14.42 MB (9.76%) 
 
 int comp (int* a, int* b) {
     return *a - *b;

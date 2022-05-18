@@ -1,5 +1,5 @@
 // 1878. Get Biggest Three Rhombus Sums in a Grid (5/29/2021)
-// Runtime: 84 ms (92.43%) Memory: 20.70 MB (81.82%) 
+// Runtime: 84 ms (92.65%) Memory: 20.70 MB (81.62%) 
 
 #define rang(a) begin(a), end(a)
 template <class T, class C = less<typename T::value_type>>

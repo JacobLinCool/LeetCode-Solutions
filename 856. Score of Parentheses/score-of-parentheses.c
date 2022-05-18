@@ -1,5 +1,5 @@
 // 856. Score of Parentheses (3/17/2022)
-// Runtime: 0 ms (94.59%) Memory: 5.50 MB (75.68%) 
+// Runtime: 0 ms (91.67%) Memory: 5.50 MB (75.00%) 
 
 int scoreOfParentheses (char * s) {
     int score = 0, depth = 0;

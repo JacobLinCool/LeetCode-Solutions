@@ -1,5 +1,5 @@
 // 318. Maximum Product of Word Lengths (5/27/2021)
-// Runtime: 12 ms (72.00%) Memory: 6.45 MB (52.00%) 
+// Runtime: 12 ms (72.55%) Memory: 6.45 MB (52.94%) 
 
 func maxProduct(words []string) int {
 	size := len(words)

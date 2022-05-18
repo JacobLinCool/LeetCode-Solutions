@@ -1,5 +1,5 @@
 // 128. Longest Consecutive Sequence (6/6/2021)
-// Runtime: 100 ms (82.02%) Memory: 47.41 MB (93.86%) 
+// Runtime: 100 ms (82.06%) Memory: 47.41 MB (93.85%) 
 
 /**
  * @param {number[]} nums

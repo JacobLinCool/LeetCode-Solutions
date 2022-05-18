@@ -1,5 +1,5 @@
 // 413. Arithmetic Slices (3/3/2022)
-// Runtime: 3 ms (37.50%) Memory: 6.15 MB (0.00%) 
+// Runtime: 3 ms (36.96%) Memory: 6.15 MB (0.00%) 
 
 int numberOfArithmeticSlices (int nums[], int size) {
     int count = 0, curr = 2;

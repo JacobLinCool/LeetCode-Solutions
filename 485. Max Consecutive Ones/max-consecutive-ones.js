@@ -1,5 +1,5 @@
 // 485. Max Consecutive Ones (6/10/2021)
-// Runtime: 84 ms (55.75%) Memory: 41.10 MB (94.92%) 
+// Runtime: 84 ms (55.63%) Memory: 41.10 MB (94.88%) 
 
 /**
  * @param {number[]} nums

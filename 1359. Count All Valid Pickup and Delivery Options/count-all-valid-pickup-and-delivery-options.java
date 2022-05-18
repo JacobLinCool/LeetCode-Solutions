@@ -1,5 +1,5 @@
 // 1359. Count All Valid Pickup and Delivery Options (3/6/2022)
-// Runtime: 0 ms (94.94%) Memory: 41.28 MB (36.64%) 
+// Runtime: 0 ms (94.76%) Memory: 41.28 MB (36.06%) 
 
 class Solution {
     public int countOrders(int n) {

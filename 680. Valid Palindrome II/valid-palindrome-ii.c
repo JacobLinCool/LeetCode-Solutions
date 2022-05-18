@@ -1,5 +1,5 @@
 // 680. Valid Palindrome II (4/2/2022)
-// Runtime: 12 ms (91.12%) Memory: 9.10 MB (39.70%) 
+// Runtime: 12 ms (91.14%) Memory: 9.10 MB (39.63%) 
 
 bool is_palindrome(char* s, int n) {
     int half = n / 2;

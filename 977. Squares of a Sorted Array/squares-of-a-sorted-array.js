@@ -1,5 +1,5 @@
 // 977. Squares of a Sorted Array (9/29/2021)
-// Runtime: 116 ms (69.62%) Memory: 45.66 MB (94.91%) 
+// Runtime: 116 ms (69.82%) Memory: 45.66 MB (94.84%) 
 
 /**
  * @param {number[]} nums

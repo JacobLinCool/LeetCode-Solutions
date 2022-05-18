@@ -1,5 +1,5 @@
 // 763. Partition Labels (3/21/2022)
-// Runtime: 89 ms (70.97%) Memory: 44.23 MB (91.94%) 
+// Runtime: 89 ms (70.74%) Memory: 44.23 MB (92.02%) 
 
 function partitionLabels(s: string): number[] {
     const slices = [] as number[];

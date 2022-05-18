@@ -1,5 +1,5 @@
 // 876. Middle of the Linked List (3/29/2022)
-// Runtime: 0 ms (94.07%) Memory: 5.75 MB (76.16%) 
+// Runtime: 0 ms (94.23%) Memory: 5.75 MB (75.85%) 
 
 /**
  * Definition for singly-linked list.

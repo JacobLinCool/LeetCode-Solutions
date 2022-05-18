@@ -1,5 +1,5 @@
 // 1249. Minimum Remove to Make Valid Parentheses (3/16/2022)
-// Runtime: 8 ms (84.34%) Memory: 11.86 MB (2.41%) 
+// Runtime: 8 ms (84.62%) Memory: 11.86 MB (1.28%) 
 
 #define StructStack(_name, _type) \
     typedef struct _name { \

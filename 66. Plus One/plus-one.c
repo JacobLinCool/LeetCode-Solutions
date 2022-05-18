@@ -1,5 +1,5 @@
 // 66. Plus One (3/4/2022)
-// Runtime: 0 ms (94.74%) Memory: 6.07 MB (21.61%) 
+// Runtime: 0 ms (94.67%) Memory: 6.07 MB (21.88%) 
 
 int* plusOne (int* digits, int size, int* new_size) {
     int* new_digits = calloc(size + 1, sizeof(int));

@@ -1,5 +1,5 @@
 // 1047. Remove All Adjacent Duplicates In String (6/29/2021)
-// Runtime: 100 ms (63.63%) Memory: 45.67 MB (94.87%) 
+// Runtime: 100 ms (63.83%) Memory: 45.67 MB (94.83%) 
 
 /**
  * @param {string} s
