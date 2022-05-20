@@ -1,5 +1,5 @@
 // 56. Merge Intervals (11/14/2021)
-// Runtime: 84 ms (94.60%) Memory: 41.56 MB (94.90%) 
+// Runtime: 84 ms (94.59%) Memory: 41.56 MB (94.78%) 
 
 /**
  * @param {number[][]} intervals

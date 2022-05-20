@@ -1,5 +1,5 @@
 // 682. Baseball Game (4/10/2022)
-// Runtime: 4 ms (32.22%) Memory: 2.64 MB (60.92%) 
+// Runtime: 4 ms (32.17%) Memory: 2.64 MB (60.99%) 
 
 func calPoints(ops []string) int {
 	records := make([]int, 0, len(ops))

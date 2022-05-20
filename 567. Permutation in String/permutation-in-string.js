@@ -1,5 +1,5 @@
 // 567. Permutation in String (10/3/2021)
-// Runtime: 104 ms (73.49%) Memory: 42.36 MB (91.80%) 
+// Runtime: 104 ms (73.20%) Memory: 42.36 MB (91.70%) 
 
 /**
  * @param {string} s1

@@ -1,5 +1,5 @@
 // 1007. Minimum Domino Rotations For Equal Row (3/20/2022)
-// Runtime: 116 ms (93.07%) Memory: 11.40 MB (47.69%) 
+// Runtime: 116 ms (93.43%) Memory: 11.40 MB (44.60%) 
 
 #define MAX(a, b) ((a > b) ? a : b)
 

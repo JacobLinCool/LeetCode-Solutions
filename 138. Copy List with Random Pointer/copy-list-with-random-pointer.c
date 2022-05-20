@@ -1,5 +1,5 @@
 // 138. Copy List with Random Pointer (3/12/2022)
-// Runtime: 8 ms (80.54%) Memory: 8.40 MB (61.62%) 
+// Runtime: 8 ms (81.52%) Memory: 8.40 MB (54.89%) 
 
 /**
  * Definition for a Node.

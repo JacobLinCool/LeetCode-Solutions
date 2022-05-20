@@ -1,5 +1,5 @@
 // 326. Power of Three (1/11/2022)
-// Runtime: 8 ms (92.95%) Memory: 6.42 MB (7.48%) 
+// Runtime: 8 ms (93.22%) Memory: 6.42 MB (7.84%) 
 
 bool isPowerOfThree(int n) {
     int64_t m = 3;

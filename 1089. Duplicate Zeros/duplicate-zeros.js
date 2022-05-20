@@ -1,5 +1,5 @@
 // 1089. Duplicate Zeros (6/16/2021)
-// Runtime: 76 ms (81.89%) Memory: 40.45 MB (94.76%) 
+// Runtime: 76 ms (81.84%) Memory: 40.45 MB (94.87%) 
 
 /**
  * @param {number[]} arr

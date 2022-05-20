@@ -1,5 +1,5 @@
 // 344. Reverse String (4/1/2022)
-// Runtime: 48 ms (88.37%) Memory: 12.32 MB (39.12%) 
+// Runtime: 48 ms (88.57%) Memory: 12.32 MB (38.88%) 
 
 void reverseString (char* s, int size) {
     int half = size / 2;

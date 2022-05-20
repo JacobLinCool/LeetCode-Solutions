@@ -1,5 +1,5 @@
 // 1337. The K Weakest Rows in a Matrix (3/27/2022)
-// Runtime: 100 ms (27.61%) Memory: 43.72 MB (87.23%) 
+// Runtime: 100 ms (27.85%) Memory: 43.72 MB (87.21%) 
 
 /**
  * @param {number[][]} mat
