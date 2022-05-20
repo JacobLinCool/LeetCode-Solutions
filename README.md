@@ -36,6 +36,7 @@
 | [58. Length of Last Word](./58.%20Length%20of%20Last%20Word) [🔗](https://leetcode.com/problems/length-of-last-word/) | Easy | `String` | [c](./58.%20Length%20of%20Last%20Word/length-of-last-word.c) |
 | [59. Spiral Matrix II](./59.%20Spiral%20Matrix%20II) [🔗](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | `Array`, `Matrix`, `Simulation` | [javascript](./59.%20Spiral%20Matrix%20II/spiral-matrix-ii.js) |
 | [61. Rotate List](./61.%20Rotate%20List) [🔗](https://leetcode.com/problems/rotate-list/) | Medium | `Linked List`, `Two Pointers` | [c](./61.%20Rotate%20List/rotate-list.c) |
+| [63. Unique Paths II](./63.%20Unique%20Paths%20II) [🔗](https://leetcode.com/problems/unique-paths-ii/) | Medium | `Array`, `Dynamic Programming`, `Matrix` | [c](./63.%20Unique%20Paths%20II/unique-paths-ii.c) \| [typescript](./63.%20Unique%20Paths%20II/unique-paths-ii.ts) |
 | [66. Plus One](./66.%20Plus%20One) [🔗](https://leetcode.com/problems/plus-one/) | Easy | `Array`, `Math` | [c](./66.%20Plus%20One/plus-one.c) |
 | [67. Add Binary](./67.%20Add%20Binary) [🔗](https://leetcode.com/problems/add-binary/) | Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` | [c](./67.%20Add%20Binary/add-binary.c) \| [typescript](./67.%20Add%20Binary/add-binary.ts) |
 | [69. Sqrt(x)](./69.%20Sqrt(x)) [🔗](https://leetcode.com/problems/sqrtx/) | Easy | `Math`, `Binary Search` | [c](./69.%20Sqrt(x)/sqrtx.c) |
