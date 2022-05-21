@@ -17,6 +17,7 @@ jobs:
               run: |
                   mkdir leetcode
                   mv * .gitignore .gitattributes .*.json leetcode
+              continue-on-error: true
 
             - name: Install leetcode-dump
               run: npm i -g leetcode-dump && lcd -V
