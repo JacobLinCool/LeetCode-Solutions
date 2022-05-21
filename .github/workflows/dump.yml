@@ -11,24 +11,27 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout Repository
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
+            
+            - name: Move Old Files
+              run: |
+                  mkdir leetcode
+                  mv * .* leetcode
+                  mv leetcode/.github .github
 
             - name: Install leetcode-dump
               run: npm i -g leetcode-dump && lcd -V
 
             - name: Dump Solutions
-              run: lcd -cd 300 # cooldown: 300 ms
+              run: lcd
               env:
                   LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
 
             - name: Build Static Site
               run: lcd build
 
-            - name: Copy Workflows && Git Files
-              run: |
-                  cp -R .github/ ./leetcode/.github/ && 
-                  cp .gitignore ./leetcode/.gitignore && 
-                  cp .gitattributes ./leetcode/.gitattributes
+            - name: Copy Workflows
+              run: cp -R .github/ ./leetcode/.github/
 
             - name: Add CNAME
               run: echo "leetcode.jacoblin.cool" > ./site/CNAME
