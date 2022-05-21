@@ -1,5 +1,5 @@
 // 52. N-Queens II (5/29/2021)
-// Runtime: 0 ms (92.38%) Memory: 1.92 MB (36.19%) 
+// Runtime: 0 ms (92.08%) Memory: 1.92 MB (37.62%) 
 
 import "fmt"
 

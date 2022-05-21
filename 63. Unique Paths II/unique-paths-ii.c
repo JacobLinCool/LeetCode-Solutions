@@ -1,5 +1,5 @@
 // 63. Unique Paths II (5/20/2022)
-// Runtime: 8 ms (20.41%) Memory: 6.12 MB (38.78%) 
+// Runtime: 8 ms (21.57%) Memory: 6.12 MB (39.22%) 
 
 int uniquePathsWithObstacles (int** obstacles, int rows, int* cols) {
     uint32_t* counts = calloc(rows * *cols, sizeof(uint32_t));

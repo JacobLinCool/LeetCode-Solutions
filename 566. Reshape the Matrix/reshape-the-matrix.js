@@ -1,5 +1,5 @@
 // 566. Reshape the Matrix (7/6/2021)
-// Runtime: 100 ms (50.54%) Memory: 45.32 MB (50.54%) 
+// Runtime: 100 ms (50.79%) Memory: 45.32 MB (50.12%) 
 
 /**
  * @param {number[][]} mat

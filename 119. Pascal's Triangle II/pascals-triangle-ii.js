@@ -1,5 +1,5 @@
 // 119. Pascal's Triangle II (11/14/2021)
-// Runtime: 72 ms (55.20%) Memory: 38.84 MB (94.94%) 
+// Runtime: 72 ms (54.95%) Memory: 38.84 MB (94.94%) 
 
 /**
  * @param {number} rowIndex

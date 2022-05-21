@@ -1,5 +1,5 @@
 // 763. Partition Labels (3/21/2022)
-// Runtime: 0 ms (94.90%) Memory: 5.85 MB (45.88%) 
+// Runtime: 0 ms (94.44%) Memory: 5.85 MB (46.11%) 
 
 #define MAX(a, b) ((a > b) ? a : b)
 

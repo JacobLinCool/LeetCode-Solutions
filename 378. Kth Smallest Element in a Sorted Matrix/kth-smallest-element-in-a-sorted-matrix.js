@@ -1,5 +1,5 @@
 // 378. Kth Smallest Element in a Sorted Matrix (7/8/2021)
-// Runtime: 100 ms (65.81%) Memory: 54.37 MB (4.75%) 
+// Runtime: 100 ms (66.48%) Memory: 54.37 MB (4.92%) 
 
 /**
  * @param {number[][]} matrix

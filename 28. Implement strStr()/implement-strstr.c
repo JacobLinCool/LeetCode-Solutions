@@ -1,5 +1,5 @@
 // 28. Implement strStr() (12/27/2021)
-// Runtime: 12 ms (14.41%) Memory: 6.04 MB (12.00%) 
+// Runtime: 12 ms (12.33%) Memory: 6.04 MB (10.56%) 
 
 int strStr(char haystack[], char needle[]) {
     // 如果 needle 為空字串，直接回傳 0

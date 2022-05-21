@@ -1,5 +1,5 @@
 // 684. Redundant Connection (6/26/2021)
-// Runtime: 80 ms (66.36%) Memory: 41.41 MB (94.85%) 
+// Runtime: 80 ms (65.96%) Memory: 41.41 MB (94.88%) 
 
 /**
  * @param {number[][]} edges

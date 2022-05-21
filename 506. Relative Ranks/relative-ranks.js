@@ -1,5 +1,5 @@
 // 506. Relative Ranks (9/29/2021)
-// Runtime: 76 ms (92.98%) Memory: 42.64 MB (94.74%) 
+// Runtime: 76 ms (93.09%) Memory: 42.64 MB (94.91%) 
 
 /**
  * @param {number[]} score

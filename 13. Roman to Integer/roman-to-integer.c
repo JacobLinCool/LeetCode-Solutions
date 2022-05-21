@@ -1,5 +1,5 @@
 // 13. Roman to Integer (3/23/2022)
-// Runtime: 4 ms (85.57%) Memory: 5.97 MB (22.79%) 
+// Runtime: 4 ms (85.67%) Memory: 5.97 MB (22.91%) 
 
 int romanToInt (char* s) {
     int dict[128] = { 0 };

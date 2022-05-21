@@ -1,5 +1,5 @@
 // 1. Two Sum (11/16/2021)
-// Runtime: 4 ms (88.11%) Memory: 4.34 MB (15.53%) 
+// Runtime: 4 ms (88.10%) Memory: 4.34 MB (15.40%) 
 
 func twoSum(nums []int, target int) []int {
     table := make(map[int]int)

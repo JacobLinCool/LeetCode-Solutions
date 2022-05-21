@@ -1,5 +1,5 @@
 // 695. Max Area of Island (6/2/2021)
-// Runtime: 108 ms (51.11%) Memory: 40.80 MB (94.85%) 
+// Runtime: 108 ms (50.87%) Memory: 40.80 MB (94.97%) 
 
 /**
  * @param {number[][]} grid

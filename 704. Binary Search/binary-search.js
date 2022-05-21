@@ -1,5 +1,5 @@
 // 704. Binary Search (9/29/2021)
-// Runtime: 60 ms (92.38%) Memory: 42.49 MB (93.41%) 
+// Runtime: 60 ms (92.09%) Memory: 42.49 MB (93.35%) 
 
 /**
  * @param {number[]} nums

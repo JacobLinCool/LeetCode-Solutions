@@ -1,5 +1,5 @@
 // 62. Unique Paths (5/20/2022)
-// Runtime: 0 ms (93.47%) Memory: 6.04 MB (0.00%) 
+// Runtime: 0 ms (93.83%) Memory: 6.04 MB (0.00%) 
 
 int uniquePaths (int m, int n) {
     int32_t* counts = calloc(m * n, sizeof(int32_t));
