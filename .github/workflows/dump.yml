@@ -23,7 +23,7 @@ jobs:
               run: npm i -g leetcode-dump && lcd -V
 
             - name: Dump Solutions
-              run: lcd
+              run: lcd -l 5/3
               env:
                   LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
 
