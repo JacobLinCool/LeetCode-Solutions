@@ -16,7 +16,7 @@ jobs:
             - name: Move Old Files
               run: |
                   mkdir leetcode
-                  mv * .* leetcode
+                  mv * .gitignore .gitattributes .*.json leetcode
                   mv leetcode/.github .github
 
             - name: Install leetcode-dump
