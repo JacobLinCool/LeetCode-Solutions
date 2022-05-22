@@ -1,1 +1,0 @@
-const e={key:"v-4ad7460b",path:"/242-valid-anagram/",title:"242. Valid Anagram",lang:"en-US",frontmatter:{title:"242. Valid Anagram"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"242-valid-anagram/index.md"};export{e as data};

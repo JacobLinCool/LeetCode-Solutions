@@ -1,1 +1,0 @@
-const e={key:"v-004b8bfa",path:"/383-ransom-note/",title:"383. Ransom Note",lang:"en-US",frontmatter:{title:"383. Ransom Note"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"383-ransom-note/index.md"};export{e as data};

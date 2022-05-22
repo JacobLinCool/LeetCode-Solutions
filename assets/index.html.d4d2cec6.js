@@ -1,1 +1,0 @@
-const e={key:"v-82e766d6",path:"/542-01-matrix/",title:"542. 01 Matrix",lang:"en-US",frontmatter:{title:"542. 01 Matrix"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"542-01-matrix/index.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-6237d5fb",path:"/231-power-of-two/",title:"231. Power of Two",lang:"en-US",frontmatter:{title:"231. Power of Two"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"231-power-of-two/index.md"};export{e as data};

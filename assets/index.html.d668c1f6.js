@@ -1,1 +1,0 @@
-const e={key:"v-a565502c",path:"/991-broken-calculator/",title:"991. Broken Calculator",lang:"en-US",frontmatter:{title:"991. Broken Calculator"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"991-broken-calculator/index.md"};export{e as data};

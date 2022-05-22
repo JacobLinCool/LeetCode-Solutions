@@ -1,1 +1,0 @@
-const e={key:"v-55c1866e",path:"/1696-jump-game-vi/",title:"1696. Jump Game VI",lang:"en-US",frontmatter:{title:"1696. Jump Game VI"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"1696-jump-game-vi/index.md"};export{e as data};

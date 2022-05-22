@@ -1,0 +1,1 @@
+const e={key:"v-60cdb398",path:"/112-path-sum/",title:"112. Path Sum",lang:"en-US",frontmatter:{title:"112. Path Sum"},excerpt:"",headers:[{level:2,title:"Problem",slug:"problem",children:[]},{level:2,title:"Code",slug:"code",children:[{level:3,title:"JS",slug:"js",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"112-path-sum/index.md"};export{e as data};

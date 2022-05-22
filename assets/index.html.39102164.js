@@ -1,0 +1,1 @@
+const e={key:"v-7d163cf0",path:"/66-plus-one/",title:"66. Plus One",lang:"en-US",frontmatter:{title:"66. Plus One"},excerpt:"",headers:[{level:2,title:"Problem",slug:"problem",children:[]},{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"66-plus-one/index.md"};export{e as data};

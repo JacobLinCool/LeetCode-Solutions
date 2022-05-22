@@ -1,1 +1,0 @@
-const e={key:"v-0a8cfe25",path:"/62-unique-paths/",title:"62. Unique Paths",lang:"en-US",frontmatter:{title:"62. Unique Paths"},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[{level:3,title:"C",slug:"c",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"62-unique-paths/index.md"};export{e as data};
