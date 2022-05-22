@@ -1,8 +1,8 @@
 # JacobLinCool's Solutions
 
-[![LeetCode Stats Card](https://leetcode.card.workers.dev/?username=JacobLinCool&theme=auto)](https://leetcode.com/JacobLinCool/)
+[![LeetCode Stats Card](https://leetcode.card.workers.dev/JacobLinCool?theme=unicorn&font=milonga)](https://leetcode.com/JacobLinCool/)
 
-## Solutions
+## My Solutions
 
 | Problem | Difficulty | Tags | Solution |
 | ------- | ---------- | ---- | -------- |
