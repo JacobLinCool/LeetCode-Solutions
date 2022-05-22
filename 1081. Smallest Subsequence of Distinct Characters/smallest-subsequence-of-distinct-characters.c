@@ -1,4 +1,4 @@
-// 1081. Smallest Subsequence of Distinct Characters (3/18/2022)
+// 1081. Smallest Subsequence of Distinct Characters (9/11/54180)
 // Runtime: 0 ms (75.00%) Memory: 5.52 MB (75.00%) 
 
 char* smallestSubsequence (char* s) {

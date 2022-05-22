@@ -1,12 +1,12 @@
+# JacobLinCool's Solutions
 
-# LeetCode Solutions
-
-[![LeetCode Stats Card](https://leetcode.card.workers.dev/?username=JacobLinCool)](https://leetcode.com/JacobLinCool/)
+[![LeetCode Stats Card](https://leetcode.card.workers.dev/?username=JacobLinCool&theme=auto)](https://leetcode.com/JacobLinCool/)
 
 ## Solutions
 
 | Problem | Difficulty | Tags | Solution |
 | ------- | ---------- | ---- | -------- |
+
 | [1. Two Sum](./1.%20Two%20Sum) [🔗](https://leetcode.com/problems/two-sum/) | Easy | `Array`, `Hash Table` | [c](./1.%20Two%20Sum/two-sum.c) \| [golang](./1.%20Two%20Sum/two-sum.go) \| [javascript](./1.%20Two%20Sum/two-sum.js) |
 | [2. Add Two Numbers](./2.%20Add%20Two%20Numbers) [🔗](https://leetcode.com/problems/add-two-numbers/) | Medium | `Linked List`, `Math`, `Recursion` | [golang](./2.%20Add%20Two%20Numbers/add-two-numbers.go) \| [javascript](./2.%20Add%20Two%20Numbers/add-two-numbers.js) \| [typescript](./2.%20Add%20Two%20Numbers/add-two-numbers.ts) |
 | [3. Longest Substring Without Repeating Characters](./3.%20Longest%20Substring%20Without%20Repeating%20Characters) [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | `Hash Table`, `String`, `Sliding Window` | [golang](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest-substring-without-repeating-characters.go) \| [javascript](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest-substring-without-repeating-characters.js) |
@@ -96,6 +96,7 @@
 | [315. Count of Smaller Numbers After Self](./315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [🔗](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | `Array`, `Binary Search`, `Divide and Conquer`, `Binary Indexed Tree`, `Segment Tree`, `Merge Sort`, `Ordered Set` | [cpp](./315.%20Count%20of%20Smaller%20Numbers%20After%20Self/count-of-smaller-numbers-after-self.cpp) |
 | [316. Remove Duplicate Letters](./316.%20Remove%20Duplicate%20Letters) [🔗](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | `String`, `Stack`, `Greedy`, `Monotonic Stack` | [c](./316.%20Remove%20Duplicate%20Letters/remove-duplicate-letters.c) |
 | [318. Maximum Product of Word Lengths](./318.%20Maximum%20Product%20of%20Word%20Lengths) [🔗](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Medium | `Array`, `String`, `Bit Manipulation` | [golang](./318.%20Maximum%20Product%20of%20Word%20Lengths/maximum-product-of-word-lengths.go) \| [javascript](./318.%20Maximum%20Product%20of%20Word%20Lengths/maximum-product-of-word-lengths.js) |
+| [322. Coin Change](./322.%20Coin%20Change) [🔗](https://leetcode.com/problems/coin-change/) | Medium | `Array`, `Dynamic Programming`, `Breadth-First Search` | [c](./322.%20Coin%20Change/coin-change.c) |
 | [326. Power of Three](./326.%20Power%20of%20Three) [🔗](https://leetcode.com/problems/power-of-three/) | Easy | `Math`, `Recursion` | [c](./326.%20Power%20of%20Three/power-of-three.c) |
 | [336. Palindrome Pairs](./336.%20Palindrome%20Pairs) [🔗](https://leetcode.com/problems/palindrome-pairs/) | Hard | `Array`, `Hash Table`, `String`, `Trie` | [javascript](./336.%20Palindrome%20Pairs/palindrome-pairs.js) |
 | [338. Counting Bits](./338.%20Counting%20Bits) [🔗](https://leetcode.com/problems/counting-bits/) | Easy | `Dynamic Programming`, `Bit Manipulation` | [c](./338.%20Counting%20Bits/counting-bits.c) |

@@ -1,5 +1,5 @@
-// 1879. Minimum XOR Sum of Two Arrays (5/29/2021)
-// Runtime: 12 ms (93.10%) Memory: 10.44 MB (51.72%) 
+// 1879. Minimum XOR Sum of Two Arrays (10/6/53378)
+// Runtime: 12 ms (94.36%) Memory: 10.44 MB (52.82%) 
 
 #include <bits/stdc++.h>
 using namespace std;

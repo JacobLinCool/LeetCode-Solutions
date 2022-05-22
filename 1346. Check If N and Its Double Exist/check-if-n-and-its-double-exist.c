@@ -1,5 +1,5 @@
-// 1346. Check If N and Its Double Exist (1/12/2022)
-// Runtime: 11 ms (23.55%) Memory: 6.38 MB (18.12%) 
+// 1346. Check If N and Its Double Exist (7/7/54000)
+// Runtime: 11 ms (23.47%) Memory: 6.38 MB (18.05%) 
 
 bool checkIfExist(int arr[], int arrSize){
     bool table[4002] = { 0 };

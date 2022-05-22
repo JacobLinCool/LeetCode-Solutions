@@ -1,4 +1,4 @@
-// 1029. Two City Scheduling (3/25/2022)
+// 1029. Two City Scheduling (10/2/54199)
 // Runtime: 2 ms (78.20%) Memory: 6.03 MB (63.53%) 
 
 int comp(int* a[], int* b[]) {

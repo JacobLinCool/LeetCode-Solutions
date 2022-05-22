@@ -1,5 +1,5 @@
-// 946. Validate Stack Sequences (3/16/2022)
-// Runtime: 6 ms (76.00%) Memory: 6.15 MB (23.20%) 
+// 946. Validate Stack Sequences (1/31/54174)
+// Runtime: 6 ms (76.42%) Memory: 6.15 MB (22.76%) 
 
 typedef uint64_t u64;
 #define StructVector(_name, _type)                                              \

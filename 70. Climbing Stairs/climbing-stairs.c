@@ -1,5 +1,5 @@
-// 70. Climbing Stairs (1/11/2022)
-// Runtime: 0 ms (93.57%) Memory: 5.72 MB (0.00%) 
+// 70. Climbing Stairs (2/18/54000)
+// Runtime: 0 ms (93.70%) Memory: 5.72 MB (0.00%) 
 
 int climbStairs(int n) {
     if (n <= 2) {

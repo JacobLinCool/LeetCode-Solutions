@@ -1,4 +1,4 @@
-// 881. Boats to Save People (3/24/2022)
+// 881. Boats to Save People (8/15/54196)
 // Runtime: 112 ms (68.89%) Memory: 11.04 MB (42.59%) 
 
 int comp (int* a, int *b) {

@@ -1,5 +1,5 @@
-// 191. Number of 1 Bits (10/10/2021)
-// Runtime: 80 ms (56.86%) Memory: 40.46 MB (94.87%) 
+// 191. Number of 1 Bits (3/10/53745)
+// Runtime: 80 ms (57.00%) Memory: 40.46 MB (94.65%) 
 
 /**
  * @param {number} n - a positive integer

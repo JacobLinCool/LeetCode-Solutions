@@ -1,5 +1,5 @@
-// 485. Max Consecutive Ones (6/10/2021)
-// Runtime: 84 ms (56.08%) Memory: 41.10 MB (94.96%) 
+// 485. Max Consecutive Ones (7/10/53411)
+// Runtime: 84 ms (56.37%) Memory: 41.10 MB (94.93%) 
 
 /**
  * @param {number[]} nums

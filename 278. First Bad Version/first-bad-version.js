@@ -1,5 +1,5 @@
-// 278. First Bad Version (9/29/2021)
-// Runtime: 68 ms (65.24%) Memory: 38.77 MB (93.27%) 
+// 278. First Bad Version (12/19/53712)
+// Runtime: 68 ms (65.18%) Memory: 38.77 MB (93.31%) 
 
 /**
  * Definition for isBadVersion()

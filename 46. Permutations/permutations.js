@@ -1,5 +1,5 @@
-// 46. Permutations (10/9/2021)
-// Runtime: 88 ms (62.35%) Memory: 41.45 MB (94.96%) 
+// 46. Permutations (4/13/53740)
+// Runtime: 88 ms (62.66%) Memory: 41.45 MB (94.84%) 
 
 /**
  * @param {number[]} nums

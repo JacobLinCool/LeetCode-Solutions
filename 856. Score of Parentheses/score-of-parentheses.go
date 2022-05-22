@@ -1,5 +1,5 @@
-// 856. Score of Parentheses (3/17/2022)
-// Runtime: 0 ms (82.05%) Memory: 1.90 MB (35.90%) 
+// 856. Score of Parentheses (10/4/54176)
+// Runtime: 0 ms (82.14%) Memory: 1.90 MB (0.00%) 
 
 func scoreOfParentheses(s string) int {
     score, depth := 0, 0

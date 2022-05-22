@@ -1,5 +1,5 @@
-// 316. Remove Duplicate Letters (3/18/2022)
-// Runtime: 0 ms (94.79%) Memory: 5.68 MB (90.63%) 
+// 316. Remove Duplicate Letters (9/10/54180)
+// Runtime: 0 ms (94.51%) Memory: 5.68 MB (90.11%) 
 
 char* removeDuplicateLetters (char* s) {
     int last_pos[26] = { -1 };

@@ -1,5 +1,5 @@
-// 476. Number Complement (12/27/2021)
-// Runtime: 0 ms (92.90%) Memory: 5.43 MB (58.06%) 
+// 476. Number Complement (2/26/53959)
+// Runtime: 0 ms (93.33%) Memory: 5.43 MB (60.00%) 
 
 int findComplement(int num) {
     return ~num & (0xFFFFFFFF >> __builtin_clz(num)); 

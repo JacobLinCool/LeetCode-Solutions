@@ -1,5 +1,5 @@
-// 16. 3Sum Closest (10/17/2021)
-// Runtime: 76 ms (78.42%) Memory: 40.58 MB (94.97%) 
+// 16. 3Sum Closest (10/16/53764)
+// Runtime: 76 ms (78.81%) Memory: 40.58 MB (94.98%) 
 
 /**
  * @param {number[]} nums

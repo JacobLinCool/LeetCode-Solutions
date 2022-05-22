@@ -1,4 +1,4 @@
-// 20. Valid Parentheses (3/13/2022)
+// 20. Valid Parentheses (3/3/54166)
 // Runtime: 0 ms (94.97%) Memory: 6.82 MB (0.00%) 
 
 #define StructStack(_name, _type) \

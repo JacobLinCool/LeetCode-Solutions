@@ -1,4 +1,4 @@
-// 1895. Largest Magic Square (6/12/2021)
+// 1895. Largest Magic Square (2/5/53417)
 // Runtime: 12 ms (77.78%) Memory: 6.56 MB (0.00%) 
 
 // Go

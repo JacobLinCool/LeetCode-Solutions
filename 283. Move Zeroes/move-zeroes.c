@@ -1,5 +1,5 @@
-// 283. Move Zeroes (1/22/2022)
-// Runtime: 129 ms (32.56%) Memory: 15.29 MB (23.00%) 
+// 283. Move Zeroes (5/17/54029)
+// Runtime: 129 ms (32.74%) Memory: 15.29 MB (22.96%) 
 
 void moveZeroes(int nums[], int numsSize) {
     int head = 0;

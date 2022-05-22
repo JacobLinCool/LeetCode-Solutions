@@ -1,4 +1,4 @@
-// 71. Simplify Path (3/14/2022)
+// 71. Simplify Path (10/5/54168)
 // Runtime: 0 ms (94.52%) Memory: 6.97 MB (20.55%) 
 
 #define StructStack(_name, _type) \

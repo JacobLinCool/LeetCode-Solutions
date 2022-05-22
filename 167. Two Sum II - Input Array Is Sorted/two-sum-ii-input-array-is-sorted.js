@@ -1,5 +1,5 @@
-// 167. Two Sum II - Input Array Is Sorted (10/1/2021)
-// Runtime: 72 ms (70.46%) Memory: 39.50 MB (94.31%) 
+// 167. Two Sum II - Input Array Is Sorted (6/26/53718)
+// Runtime: 72 ms (70.69%) Memory: 39.50 MB (94.29%) 
 
 /**
  * @param {number[]} numbers

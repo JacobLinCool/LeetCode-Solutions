@@ -1,5 +1,5 @@
-// 941. Valid Mountain Array (1/12/2022)
-// Runtime: 40 ms (29.54%) Memory: 6.94 MB (60.34%) 
+// 941. Valid Mountain Array (7/13/54000)
+// Runtime: 40 ms (30.08%) Memory: 6.94 MB (61.02%) 
 
 
 

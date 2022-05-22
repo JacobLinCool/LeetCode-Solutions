@@ -1,5 +1,5 @@
-// 1004. Max Consecutive Ones III (6/29/2021)
-// Runtime: 88 ms (62.91%) Memory: 43.46 MB (94.70%) 
+// 1004. Max Consecutive Ones III (4/5/53463)
+// Runtime: 88 ms (63.04%) Memory: 43.46 MB (94.82%) 
 
 /**
  * @param {number[]} nums

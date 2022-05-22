@@ -1,5 +1,5 @@
-// 67. Add Binary (3/21/2022)
-// Runtime: 76 ms (78.75%) Memory: 45.57 MB (28.33%) 
+// 67. Add Binary (7/18/54188)
+// Runtime: 76 ms (78.57%) Memory: 45.57 MB (26.89%) 
 
 function addBinary(a: string, b: string): string {
     let big_a = BigInt(0), big_b = BigInt(0);

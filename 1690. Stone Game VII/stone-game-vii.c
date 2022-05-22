@@ -1,4 +1,4 @@
-// 1690. Stone Game VII (12/27/2021)
+// 1690. Stone Game VII (8/24/53956)
 // Runtime: 52 ms (94.28%) Memory: 10.40 MB (60.00%) 
 
 int stoneGameVII(int stones[], int stonesSize){

@@ -1,4 +1,4 @@
-// 799. Champagne Tower (3/4/2022)
+// 799. Champagne Tower (3/26/54141)
 // Runtime: 3 ms (90.00%) Memory: 12.09 MB (0.00%) 
 
 static inline double pour(double a) {

@@ -1,5 +1,5 @@
-// 169. Majority Element (10/17/2021)
-// Runtime: 72 ms (77.90%) Memory: 41.25 MB (94.98%) 
+// 169. Majority Element (8/30/53764)
+// Runtime: 72 ms (78.09%) Memory: 41.25 MB (94.74%) 
 
 /**
  * @param {number[]} nums

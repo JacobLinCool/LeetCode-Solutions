@@ -1,4 +1,4 @@
-// 1029. Two City Scheduling (3/25/2022)
+// 1029. Two City Scheduling (10/14/54199)
 // Runtime: 111 ms (25.16%) Memory: 44.16 MB (76.13%) 
 
 function twoCitySchedCost(costs: number[][]): number {
