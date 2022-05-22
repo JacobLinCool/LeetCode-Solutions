@@ -12,7 +12,7 @@ jobs:
         steps:
             - name: Checkout Repository
               uses: actions/checkout@v3
-            
+
             - name: Move Old Files
               run: |
                   mkdir leetcode
@@ -23,7 +23,7 @@ jobs:
               run: npm i -g leetcode-dump && lcd -V
 
             - name: Dump Solutions
-              run: lcd -l 2/1
+              run: lcd -l 2/1 -T ./leetcode/index-template.md
               env:
                   LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
 
