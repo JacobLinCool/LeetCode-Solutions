@@ -6,7 +6,6 @@
 
 | Problem | Difficulty | Tags | Solution |
 | ------- | ---------- | ---- | -------- |
-
 | [1. Two Sum](./1.%20Two%20Sum) [🔗](https://leetcode.com/problems/two-sum/) | Easy | `Array`, `Hash Table` | [c](./1.%20Two%20Sum/two-sum.c) \| [golang](./1.%20Two%20Sum/two-sum.go) \| [javascript](./1.%20Two%20Sum/two-sum.js) |
 | [2. Add Two Numbers](./2.%20Add%20Two%20Numbers) [🔗](https://leetcode.com/problems/add-two-numbers/) | Medium | `Linked List`, `Math`, `Recursion` | [golang](./2.%20Add%20Two%20Numbers/add-two-numbers.go) \| [javascript](./2.%20Add%20Two%20Numbers/add-two-numbers.js) \| [typescript](./2.%20Add%20Two%20Numbers/add-two-numbers.ts) |
 | [3. Longest Substring Without Repeating Characters](./3.%20Longest%20Substring%20Without%20Repeating%20Characters) [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | `Hash Table`, `String`, `Sliding Window` | [golang](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest-substring-without-repeating-characters.go) \| [javascript](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest-substring-without-repeating-characters.js) |
