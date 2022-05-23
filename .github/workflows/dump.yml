@@ -29,6 +29,8 @@ jobs:
 
             - name: Build Static Site
               run: lcd build
+              env:
+                  CNAME: leetcode.jacoblin.cool
 
             - name: Copy Workflows
               run: cp -R .github/ ./leetcode/.github/
