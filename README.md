@@ -2,6 +2,10 @@
 
 [![LeetCode Stats Card](https://leetcode.card.workers.dev/JacobLinCool?theme=unicorn&font=milonga)](https://leetcode.com/JacobLinCool/)
 
+[GitHub Repository](https://github.com/JacobLinCool/LeetCode-Solutions)
+
+Built by [LeetCode Dump](https://github.com/JacobLinCool/LeetCode-Dump)
+
 ## My Solutions
 
 | Problem | Difficulty | Tags | Solution |
