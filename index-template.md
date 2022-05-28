@@ -1,6 +1,6 @@
 # ${username ? username + "'s" : "LeetCode" } Solutions
 
-[![LeetCode Stats Card](https://leetcode.card.workers.dev/${username}?theme=unicorn&font=milonga)](https://leetcode.com/${username}/)
+[![LeetCode Stats Card](https://leetcard.jacoblin.cool/${username}?theme=unicorn&font=milonga)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 [GitHub Repository](https://github.com/JacobLinCool/LeetCode-Solutions)
 
