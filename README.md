@@ -1,6 +1,6 @@
 # JacobLinCool's Solutions
 
-[![LeetCode Stats Card](https://leetcode.card.workers.dev/JacobLinCool?theme=unicorn&font=milonga)](https://leetcode.com/JacobLinCool/)
+[![LeetCode Stats Card](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=milonga)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 [GitHub Repository](https://github.com/JacobLinCool/LeetCode-Solutions)
 
