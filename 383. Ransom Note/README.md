@@ -2,7 +2,7 @@
 
 Tags: `Hash Table`, `String`, `Counting`
 
-Given two strings `ransomNote` and `magazine`, return `true` _if_ `ransomNote` _can be constructed from_ `magazine` _and_ `false` _otherwise_.
+Given two strings `ransomNote` and `magazine`, return `true` _if_ `ransomNote` _can be constructed by using the letters from_ `magazine` _and_ `false` _otherwise_.
 
 Each letter in `magazine` can only be used once in `ransomNote`.
 
