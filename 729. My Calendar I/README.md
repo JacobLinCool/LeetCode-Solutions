@@ -1,6 +1,6 @@
 # 729. My Calendar I
 
-Tags: `Design`, `Segment Tree`, `Ordered Set`
+Tags: `Binary Search`, `Design`, `Segment Tree`, `Ordered Set`
 
 You are implementing a program to use as your calendar. We can add a new event if adding the event will not cause a **double booking**.
 
