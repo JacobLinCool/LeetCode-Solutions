@@ -36,7 +36,7 @@ jobs:
               run: cp -R .github/ ./leetcode/.github/
 
             - name: Deploy Dumped Solutions
-              uses: peaceiris/actions-gh-pages@v3
+              uses: peaceiris/actions-gh-pages@v4
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN  }}
                   publish_dir: "./leetcode"
@@ -45,7 +45,7 @@ jobs:
                   exclude_assets: ""
 
             - name: Deploy Static Site
-              uses: peaceiris/actions-gh-pages@v3
+              uses: peaceiris/actions-gh-pages@v4
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN  }}
                   publish_dir: "./site"
